@@ -1,0 +1,3025 @@
+Archive member included to satisfy reference by file (symbol)
+
+../../../../include_lib/liba/br23/cpu.a(crc16.c.o)
+                              obj/Release/cpu/br23/setup.o (symbol from plugin) (__crc16_mutex_init)
+../../../../include_lib/liba/br23/cpu.a(uart.c.o)
+                              obj/Release/cpu/br23/adc_api.o (symbol from plugin) (delay)
+../../../../include_lib/liba/br23/cpu.a(usb.c.o)
+                              obj/Release/apps/common/usb/device/usb_device.o (symbol from plugin) (usb_sof_clr_pnd)
+../../../../include_lib/liba/br23/cpu.a(clock.c.o)
+                              obj/Release/cpu/br23/charge.o (symbol from plugin) (clk_get)
+../../../../include_lib/liba/br23/cpu.a(gpio.c.o)
+                              obj/Release/cpu/br23/iic_hw.o (symbol from plugin) (usb_iomode)
+../../../../include_lib/liba/br23/cpu.a(timer.c.o)
+                              obj/Release/apps/common/key/key_driver.o (symbol from plugin) (timer_get_ms)
+../../../../include_lib/liba/br23/cpu.a(debug.c.o)
+                              obj/Release/apps/common/update/testbox_update.o (symbol from plugin) (ram_protect_close)
+../../../../include_lib/liba/br23/cpu.a(wdt.c.o)
+                              obj/Release/cpu/br23/setup.o (symbol from plugin) (wdt_close)
+../../../../include_lib/liba/br23/cpu.a(efuse.c.o)
+                              obj/Release/cpu/br23/charge.o (symbol from plugin) (get_vbat_trim)
+../../../../include_lib/liba/br23/cpu.a(vm.c.o)
+                              obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_import.o (symbol from plugin) (vm_open)
+../../../../include_lib/liba/br23/cpu.a(p33.c.o)
+                              obj/Release/cpu/br23/adc_api.o (symbol from plugin) (p33_and_1byte)
+../../../../include_lib/liba/br23/cpu.a(power_hw.c.o)
+                              obj/Release/cpu/br23/adc_api.o (symbol from plugin) (is_lcd_on)
+../../../../include_lib/liba/br23/cpu.a(power_wakeup.c.o)
+                              power_hw.c.o (symbol from plugin) (__hw_wakeup_port_init)
+../../../../include_lib/liba/br23/cpu.a(rtc.c.o)
+                              power_wakeup.c.o (symbol from plugin) (rtc_port_pr_in)
+../../../../include_lib/liba/br23/cpu.a(pmu_calibrate.c.o)
+                              power_hw.c.o (symbol from plugin) (get_vddiow_trim)
+../../../../include_lib/liba/br23/cpu.a(otg.c.o)
+                              obj/Release/apps/common/usb/usb_config.o (symbol from plugin) (usb_otg_suspend)
+../../../../include_lib/liba/br23/cpu.a(usb_phy.c.o)
+                              obj/Release/apps/common/usb/usb_config.o (symbol from plugin) (usb_read_sofframe)
+../../../../include_lib/liba/br23/cpu.a(usb_setup.c.o)
+                              obj/Release/apps/common/usb/usb_config.o (symbol from plugin) (usb_device2id)
+../../../../include_lib/liba/br23/cpu.a(descriptor.c.o)
+                              usb_setup.c.o (symbol from plugin) (get_device_descriptor)
+../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+                              (_start)
+../../../../include_lib/liba/br23/cpu.a(encryption.c.o)
+                              vm.c.o (symbol from plugin) (doe)
+../../../../include_lib/liba/br23/cpu.a(lp_timer_hw.c.o)
+                              power_hw.c.o (symbol from plugin) (__hw_nv_timer0_dump)
+../../../../include_lib/liba/br23/cpu.a(lrc_hw.c.o)
+                              power_hw.c.o (symbol from plugin) (__get_lrc_hz)
+../../../../include_lib/liba/br23/cpu.a(misc_hw.c.o)
+                              power_hw.c.o (symbol from plugin) (watchdog_close)
+../../../../include_lib/liba/br23/system.a(os_api.c.o)
+                              obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_ll_demo/ll_task.o (symbol from plugin) (os_task_create)
+../../../../include_lib/liba/br23/system.a(app_core.c.o)
+                              obj/Release/apps/spp_and_le/app_main.o (symbol from plugin) (start_app)
+../../../../include_lib/liba/br23/system.a(ASCII_lib.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec_tone.o (symbol from plugin) (ASCII_StrCmpNoCase)
+../../../../include_lib/liba/br23/system.a(circular_buf.c.o)
+                              obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_ll_demo/ll_task.o (symbol from plugin) (cbuf_read)
+../../../../include_lib/liba/br23/system.a(syscfg_api.c.o)
+                              obj/Release/cpu/br23/audio_common/app_audio.o (symbol from plugin) (syscfg_read)
+../../../../include_lib/liba/br23/system.a(sbrk.c.o)
+                              obj/Release/cpu/br23/setup.o (symbol from plugin) (memory_init)
+../../../../include_lib/liba/br23/system.a(common.c.o)
+                              obj/Release/apps/uplus/src/hal/uplus_hal_systick.o (symbol from plugin) (jiffies_msec)
+../../../../include_lib/liba/br23/system.a(vmalloc.c.o)
+                              sbrk.c.o (symbol from plugin) (vmm_init_)
+../../../../include_lib/liba/br23/system.a(heap_mmu.c.o)
+                              sbrk.c.o (symbol from plugin) (vStackMemoryInit)
+../../../../include_lib/liba/br23/system.a(hwi.c.o)
+                              obj/Release/cpu/br23/adc_api.o (symbol from plugin) (request_irq)
+../../../../include_lib/liba/br23/system.a(port.c.o)
+                              obj/Release/cpu/br23/adc_api.o (symbol from plugin) (local_irq_disable)
+../../../../include_lib/liba/br23/system.a(pmalloc.c.o)
+                              sbrk.c.o (symbol from plugin) (pmalloc_init)
+../../../../include_lib/liba/br23/system.a(memory.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec_tone.o (symbol from plugin) (malloc)
+../../../../include_lib/liba/br23/system.a(device_api.c.o)
+                              obj/Release/apps/spp_and_le/board/br23/board_ac635n_demo.o (symbol from plugin) (devices_init)
+../../../../include_lib/liba/br23/system.a(event.c.o)
+                              obj/Release/cpu/br23/charge.o (symbol from plugin) (sys_event_notify)
+../../../../include_lib/liba/br23/system.a(sdfile_new.c.o)
+                              obj/Release/cpu/br23/flash_interface.o (symbol from plugin) (sdfile_cpu_addr2flash_addr)
+../../../../include_lib/liba/br23/system.a(vfs.c.o)
+                              sdfile_new.c.o (symbol from plugin) (mount)
+../../../../include_lib/liba/br23/system.a(init.c.o)
+                              ../../../../include_lib/liba/br23/cpu.a(startup.S.o) (boot_info_init)
+../../../../include_lib/liba/br23/system.a(lbuf.c.o)
+                              obj/Release/apps/common/usb/usb_config.o (symbol from plugin) (lbuf_init)
+../../../../include_lib/liba/br23/system.a(puthex.c.o)
+                              obj/Release/cpu/br23/audio_enc/audio_adc_demo.o (symbol from plugin) (putchar)
+../../../../include_lib/liba/br23/system.a(printf-stdarg.c.o)
+                              obj/Release/cpu/br23/audio_common/app_audio.o (symbol from plugin) (puts)
+../../../../include_lib/liba/br23/system.a(log.c.o)
+                              obj/Release/cpu/br23/setup.o (symbol from plugin) (log_flush)
+../../../../include_lib/liba/br23/system.a(task.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec_tone.o (symbol from plugin) (os_current_task)
+../../../../include_lib/liba/br23/system.a(timer.c.o)
+                              obj/Release/cpu/br23/audio_common/app_audio.o (symbol from plugin) (sys_timer_add)
+../../../../include_lib/liba/br23/system.a(queue.c.o)
+                              os_api.c.o (symbol from plugin) (xQueueGenericReset)
+../../../../include_lib/liba/br23/system.a(main.c.o)
+                              heap_mmu.c.o (symbol from plugin) (vApplicationMallocFailedHook)
+../../../../include_lib/liba/br23/system.a(tasks.c.o)
+                              port.c.o (symbol from plugin) (uxTaskStack)
+../../../../include_lib/liba/br23/system.a(list.c.o)
+                              queue.c.o (symbol from plugin) (vListInitialise)
+../../../../include_lib/liba/br23/system.a(cfg_bin.c.o)
+                              syscfg_api.c.o (symbol from plugin) (syscfg_bin_enable)
+../../../../include_lib/liba/br23/system.a(cfg_btif.c.o)
+                              syscfg_api.c.o (symbol from plugin) (syscfg_btif_enable)
+../../../../include_lib/liba/br23/btstack.a(btstack_task.c.o)
+                              obj/Release/apps/uplus/app_haier.o (symbol from plugin) (ble_bqb_test_thread_init)
+../../../../include_lib/liba/br23/btstack.a(hci_vendor.c.o)
+                              btstack_task.c.o (symbol from plugin) (hci_event_handler)
+../../../../include_lib/liba/br23/btstack.a(btstack_memory.c.o)
+                              hci_vendor.c.o (symbol from plugin) (btstack_memory_le_hci_connection_get)
+../../../../include_lib/liba/br23/btstack.a(btstack_linked_list.c.o)
+                              hci_vendor.c.o (symbol from plugin) (btstack_linked_list_empty)
+../../../../include_lib/liba/br23/btstack.a(utils.c.o)
+                              obj/Release/apps/uplus/src/le_uplus.o (symbol from plugin) (little_endian_read_16)
+../../../../include_lib/liba/br23/btstack.a(run_loop.c.o)
+                              btstack_task.c.o (symbol from plugin) (bt_profile_loop)
+../../../../include_lib/liba/br23/btstack.a(l2cap.c.o)
+                              obj/Release/apps/uplus/src/le_uplus.o (symbol from plugin) (le_l2cap_register_packet_handler)
+../../../../include_lib/liba/br23/btstack.a(user_interface.c.o)
+                              obj/Release/apps/uplus/app_haier.o (symbol from plugin) (__set_support_msbc_flag)
+../../../../include_lib/liba/br23/btstack.a(le_device_db_memory.c.o)
+                              obj/Release/apps/uplus/src/le_uplus.o (symbol from plugin) (le_device_db_init)
+../../../../include_lib/liba/br23/btstack.a(l2cap_signaling.c.o)
+                              l2cap.c.o (symbol from plugin) (l2cap_outgoing_acl_len)
+../../../../include_lib/liba/br23/btstack.a(sdp_util.c.o)
+                              hci_vendor.c.o (symbol from plugin) (sdp_callback_remote_type)
+../../../../include_lib/liba/br23/btstack.a(avctp_user.c.o)
+                              obj/Release/apps/common/update/update.o (symbol from plugin) (user_send_cmd_prepare)
+../../../../include_lib/liba/br23/btstack.a(remote_device_db.c.o)
+                              hci_vendor.c.o (symbol from plugin) (get_support_profile)
+../../../../include_lib/liba/br23/btstack.a(bt_configs.c.o)
+                              avctp_user.c.o (symbol from plugin) (__bt_profile_enable)
+../../../../include_lib/liba/br23/btstack.a(att_send.c.o)
+                              obj/Release/apps/uplus/src/uplus.o (symbol from plugin) (att_set_ccc_config)
+../../../../include_lib/liba/br23/btstack.a(client_user.c.o)
+                              att_send.c.o (symbol from plugin) (user_client_gatt_event)
+../../../../include_lib/liba/br23/btstack.a(btstack_main.c.o)
+                              obj/Release/apps/spp_and_le/lib_config/lib_profile_config.o (symbol from plugin) (get_le_pool_len)
+../../../../include_lib/liba/br23/btstack.a(att_dispatch.c.o)
+                              btstack_main.c.o (symbol from plugin) (att_global_info_init)
+../../../../include_lib/liba/br23/btstack.a(att_server.c.o)
+                              obj/Release/apps/uplus/src/le_uplus.o (symbol from plugin) (att_server_set_exchange_mtu)
+../../../../include_lib/liba/br23/btstack.a(sm.c.o)
+                              obj/Release/apps/uplus/src/le_uplus.o (symbol from plugin) (sm_event_callback_set)
+../../../../include_lib/liba/br23/btstack.a(btstack_sys_timer.c.o)
+                              avctp_user.c.o (symbol from plugin) (btstack_set_timer)
+../../../../include_lib/liba/br23/btstack.a(bt_audio.c.o)
+                              btstack_main.c.o (symbol from plugin) (aec_sco_connection_start)
+../../../../include_lib/liba/br23/btstack.a(a2dp.c.o)
+                              bt_audio.c.o (symbol from plugin) (__close_all_a2dp_media_coder)
+../../../../include_lib/liba/br23/btstack.a(a2dp_sink.c.o)
+                              a2dp.c.o (symbol from plugin) (__sink_media_close)
+../../../../include_lib/liba/br23/btstack.a(a2dp_source.c.o)
+                              a2dp.c.o (symbol from plugin) (a2dp_media_packet_info)
+../../../../include_lib/liba/br23/btstack.a(avdtp.c.o)
+                              a2dp.c.o (symbol from plugin) (avdtp_retry_send)
+../../../../include_lib/liba/br23/btstack.a(avctp.c.o)
+                              avctp_user.c.o (symbol from plugin) (get_music_volume)
+../../../../include_lib/liba/br23/btstack.a(avrcp.c.o)
+                              avctp.c.o (symbol from plugin) (avrcp_player_event)
+../../../../include_lib/liba/br23/btstack.a(hfp_profile.c.o)
+                              btstack_main.c.o (symbol from plugin) (hfp_profile_init)
+../../../../include_lib/liba/br23/btstack.a(hfp_ag_profile.c.o)
+                              avctp_user.c.o (symbol from plugin) (setup_hfp_ag_esco_link)
+../../../../include_lib/liba/br23/btstack.a(hid.c.o)
+                              btstack_main.c.o (symbol from plugin) (hid_init)
+../../../../include_lib/liba/br23/btstack.a(spp_profile.c.o)
+                              btstack_main.c.o (symbol from plugin) (spp_handl_init)
+../../../../include_lib/liba/br23/btstack.a(gatt_client.c.o)
+                              att_send.c.o (symbol from plugin) (gatt_client_request_can_send_now_event)
+../../../../include_lib/liba/br23/btstack.a(rfcomm.c.o)
+                              btstack_main.c.o (symbol from plugin) (rfcomm_init)
+../../../../include_lib/liba/br23/btstack.a(sdp.c.o)
+                              btstack_main.c.o (symbol from plugin) (sdp_init)
+../../../../include_lib/liba/br23/btstack.a(sdp_master.c.o)
+                              btstack_main.c.o (symbol from plugin) (sdp_master_init)
+../../../../include_lib/liba/br23/btstack.a(remote_device_list.c.o)
+                              sm.c.o (symbol from plugin) (ble_list_pair_add)
+../../../../include_lib/liba/br23/btstack.a(database_file.c.o)
+                              btstack_main.c.o (symbol from plugin) (set_bt_vm_interface)
+../../../../include_lib/liba/br23/btstack.a(att_db.c.o)
+                              att_server.c.o (symbol from plugin) (att_set_db)
+../../../../include_lib/liba/br23/btstack.a(iap_profile.c.o)
+                              rfcomm.c.o (symbol from plugin) (iap_check_conn_for_rfcomm_id)
+../../../../include_lib/liba/br23/btctrler.a(RF.c.o)
+                              obj/Release/apps/spp_and_le/user_cfg.o (symbol from plugin) (bt_max_pwr_set)
+../../../../include_lib/liba/br23/btctrler.a(tws_le_acc.c.o)
+                              hci_vendor.c.o (symbol from plugin) (tws_le_acc_generation)
+../../../../include_lib/liba/br23/btctrler.a(tws_le_link.c.o)
+                              hci_vendor.c.o (symbol from plugin) (tws_le_adv_scan_parm_init)
+../../../../include_lib/liba/br23/btctrler.a(link_bulk.c.o)
+                              tws_le_link.c.o (symbol from plugin) (bt_malloc)
+../../../../include_lib/liba/br23/btctrler.a(lmp.c.o)
+                              tws_le_link.c.o (symbol from plugin) (tws_ble_sniff_slot_reset)
+../../../../include_lib/liba/br23/btctrler.a(lmp_hci.c.o)
+                              hci_vendor.c.o (symbol from plugin) (get_tws_internal_addr)
+../../../../include_lib/liba/br23/btctrler.a(bredr_frame.c.o)
+                              RF.c.o (symbol from plugin) (bt_edr_prio_settings)
+../../../../include_lib/liba/br23/btctrler.a(bredr_link.c.o)
+                              hci_vendor.c.o (symbol from plugin) (get_bredr_link_state)
+../../../../include_lib/liba/br23/btctrler.a(bredr_slot_timer.c.o)
+                              bredr_frame.c.o (symbol from plugin) (slot_timer_init)
+../../../../include_lib/liba/br23/btctrler.a(bredr_low_power.c.o)
+                              bredr_frame.c.o (symbol from plugin) (bredr_power_get)
+../../../../include_lib/liba/br23/btctrler.a(bredr_dut.c.o)
+                              bredr_link.c.o (symbol from plugin) (dut_clear_tx_buf)
+../../../../include_lib/liba/br23/btctrler.a(tws_link.c.o)
+                              bredr_link.c.o (symbol from plugin) (tws_esco_acl_communication)
+../../../../include_lib/liba/br23/btctrler.a(tws_pair.c.o)
+                              bredr_link.c.o (symbol from plugin) (tws_host_channel_match)
+../../../../include_lib/liba/br23/btctrler.a(tws_data_forwarding.c.o)
+                              tws_pair.c.o (symbol from plugin) (tws_data_sync_clear_abandon_num)
+../../../../include_lib/liba/br23/btctrler.a(tws_media_sync.c.o)
+                              lmp.c.o (symbol from plugin) (sbc_sync_packet_len)
+../../../../include_lib/liba/br23/btctrler.a(tws_task.c.o)
+                              btstack_main.c.o (symbol from plugin) (tws_api_detach)
+../../../../include_lib/liba/br23/btctrler.a(tws_power_balance.c.o)
+                              tws_task.c.o (symbol from plugin) (tws_power_banance_init)
+../../../../include_lib/liba/br23/btctrler.a(tws_sync_call.c.o)
+                              tws_task.c.o (symbol from plugin) (tws_api_sync_call_func_internal)
+../../../../include_lib/liba/br23/btctrler.a(tws_tx_sync.c.o)
+                              tws_task.c.o (symbol from plugin) (tws_tx_sync_init)
+../../../../include_lib/liba/br23/btctrler.a(local_media_sync.c.o)
+                              tws_pair.c.o (symbol from plugin) (tws_api_local_media_packet_cnt)
+../../../../include_lib/liba/br23/btctrler.a(btctrler_task.c.o)
+                              obj/Release/apps/common/update/testbox_update.o (symbol from plugin) (btctrler_testbox_update_msg_handle_register)
+../../../../include_lib/liba/br23/btctrler.a(btencry_task.c.o)
+                              lmp.c.o (symbol from plugin) (function_E1_api)
+../../../../include_lib/liba/br23/btctrler.a(h4_controller_interface.c.o)
+                              btstack_task.c.o (symbol from plugin) (hci_transport_h4_controller_instance)
+../../../../include_lib/liba/br23/btctrler.a(h4_uart_interface_loop.c.o)
+                              btstack_task.c.o (symbol from plugin) (hci_transport_uart_instance)
+../../../../include_lib/liba/br23/btctrler.a(hci_device_manager.c.o)
+                              hci_vendor.c.o (symbol from plugin) (dev_hci_set_event_mask)
+../../../../include_lib/liba/br23/btctrler.a(hci_controller.c.o)
+                              hci_vendor.c.o (symbol from plugin) (le_hci_send_acl_packet)
+../../../../include_lib/liba/br23/btctrler.a(device_manager.c.o)
+                              RF.c.o (symbol from plugin) (set_bt_version)
+../../../../include_lib/liba/br23/btctrler.a(link_task.c.o)
+                              lmp.c.o (symbol from plugin) (link_task_close_all)
+../../../../include_lib/liba/br23/btctrler.a(vendor_manager.c.o)
+                              hci_controller.c.o (symbol from plugin) (hci_vendor_cmd_handler)
+../../../../include_lib/liba/br23/btctrler.a(hci_ll_cmds.c.o)
+                              hci_controller.c.o (symbol from plugin) (ll_push_acl_data)
+../../../../include_lib/liba/br23/btctrler.a(ll_resolve_list.c.o)
+                              remote_device_list.c.o (symbol from plugin) (irk_enc)
+../../../../include_lib/liba/br23/btctrler.a(ll_extended_advertising.c.o)
+                              hci_controller.c.o (symbol from plugin) (ll_ext_destroy)
+../../../../include_lib/liba/br23/btctrler.a(ll_init.c.o)
+                              hci_ll_cmds.c.o (symbol from plugin) (ll_init_open)
+../../../../include_lib/liba/br23/btctrler.a(link_layer.c.o)
+                              hci_controller.c.o (symbol from plugin) (ll_link_for_handle)
+../../../../include_lib/liba/br23/btctrler.a(ll_vendor.c.o)
+                              obj/Release/apps/uplus/src/le_uplus.o (symbol from plugin) (ble_vendor_get_peer_rssi)
+../../../../include_lib/liba/br23/btctrler.a(hci_ll_5_cmds.c.o)
+                              hci_ll_cmds.c.o (symbol from plugin) (le_controller_handler_for_ble5)
+../../../../include_lib/liba/br23/btctrler.a(ll_data_extension.c.o)
+                              hci_ll_cmds.c.o (symbol from plugin) (ll_read_maximum_data_length)
+../../../../include_lib/liba/br23/btctrler.a(ll_afh.c.o)
+                              link_layer.c.o (symbol from plugin) (master_ll_update_channel_map_done)
+../../../../include_lib/liba/br23/btctrler.a(ll_ext_init.c.o)
+                              ll_extended_advertising.c.o (symbol from plugin) (destroy_le_ext_init)
+../../../../include_lib/liba/br23/btctrler.a(ll_multiple_phys.c.o)
+                              link_layer.c.o (symbol from plugin) (__master_ll_phy_update_done)
+../../../../include_lib/liba/br23/btctrler.a(ll_keys.c.o)
+                              hci_ll_cmds.c.o (symbol from plugin) (ll_read_local_p256_public_key)
+../../../../include_lib/liba/br23/btctrler.a(ll_events.c.o)
+                              link_layer.c.o (symbol from plugin) (le_connection_update_complete_event)
+../../../../include_lib/liba/br23/btctrler.a(ll_scan.c.o)
+                              ll_events.c.o (symbol from plugin) (le_scan_filter_duplicates)
+../../../../include_lib/liba/br23/btctrler.a(ll_common_iso.c.o)
+                              hci_controller.c.o (symbol from plugin) (hci_push_iso_sdu)
+../../../../include_lib/liba/br23/btctrler.a(ll_slave.c.o)
+                              link_layer.c.o (symbol from plugin) (conn_slave_rx_post_handler)
+../../../../include_lib/liba/br23/btctrler.a(ll_adv.c.o)
+                              link_layer.c.o (symbol from plugin) (adv_rx_post_handler)
+../../../../include_lib/liba/br23/btctrler.a(ll_bis.c.o)
+                              ll_common_iso.c.o (symbol from plugin) (ll_bis_by_handle)
+../../../../include_lib/liba/br23/btctrler.a(hci_ll.c.o)
+                              obj/Release/apps/common/update/testbox_update.o (symbol from plugin) (ll_hci_destory)
+../../../../include_lib/liba/br23/btctrler.a(ll_ext_scan.c.o)
+                              hci_ll_5_cmds.c.o (symbol from plugin) (ll_ext_scan_close)
+../../../../include_lib/liba/br23/btctrler.a(ll_periodic_advertising.c.o)
+                              ll_ext_scan.c.o (symbol from plugin) (le_periodic_sync_timeout_close)
+../../../../include_lib/liba/br23/btctrler.a(ll_white_list.c.o)
+                              ll_init.c.o (symbol from plugin) (ll_white_list_match)
+../../../../include_lib/liba/br23/btctrler.a(ll_ext_adv.c.o)
+                              ll_slave.c.o (symbol from plugin) (ll_exit_ext_legacy_adv_status)
+../../../../include_lib/liba/br23/btctrler.a(RF_ble5.c.o)
+                              ll_extended_advertising.c.o (symbol from plugin) (__ble5_ops)
+../../../../include_lib/liba/br23/btctrler.a(RF_ble.c.o)
+                              RF_ble5.c.o (symbol from plugin) (PHY_TO_BLE)
+../../../../include_lib/liba/br23/btctrler.a(analog_ble.c.o)
+                              RF_ble.c.o (symbol from plugin) (ble_agc_normal_set)
+../../../../include_lib/liba/br23/btctrler.a(le_low_power.c.o)
+                              RF_ble.c.o (symbol from plugin) (__get_clkn)
+../../../../include_lib/liba/br23/btctrler.a(direct_test_dut.c.o)
+                              device_manager.c.o (symbol from plugin) (le_dut_hci_reset_handle)
+../../../../include_lib/liba/br23/btctrler.a(multilink_schedule.c.o)
+                              RF_ble.c.o (symbol from plugin) (master_setup_connection_updatea_first_data_location)
+../../../../include_lib/liba/br23/btctrler.a(ll_master.c.o)
+                              ll_init.c.o (symbol from plugin) (master_rx_conn_post_handler)
+../../../../include_lib/liba/br23/btctrler.a(ll_cis.c.o)
+                              ll_common_iso.c.o (symbol from plugin) (ll_cis_by_handle)
+../../../../include_lib/liba/br23/btctrler.a(ll_bis_slave.c.o)
+                              ll_bis.c.o (symbol from plugin) (ll_bis_slave_init)
+../../../../include_lib/liba/br23/btctrler.a(ll_cis_slave.c.o)
+                              ll_cis.c.o (symbol from plugin) (ll_cis_slave_init)
+../../../../include_lib/liba/br23/btctrler.a(ll_msg.c.o)
+                              ll_bis_slave.c.o (symbol from plugin) (ll_msg_alloc)
+../../../../include_lib/liba/br23/btctrler.a(ll_cis_master.c.o)
+                              ll_cis.c.o (symbol from plugin) (ll_cis_master_init)
+../../../../include_lib/liba/br23/btctrler.a(version.z.o)
+                              ../../../../include_lib/liba/br23/cpu.a(startup.S.o) (lib_btctler_version)
+../../../../include_lib/liba/br23/btctrler.a(misc_hw.c.o)
+                              bredr_dut.c.o (symbol from plugin) (pseudo_random_genrate)
+../../../../include_lib/liba/br23/btctrler.a(aes_hw.c.o)
+                              RF_ble.c.o (symbol from plugin) (ccm_memory_v2)
+../../../../include_lib/liba/br23/btctrler.a(sys_timer.c.o)
+                              link_layer.c.o (symbol from plugin) (sys_timer_register)
+../../../../include_lib/liba/br23/btctrler.a(vsprintf.c.o)
+                              link_layer.c.o (symbol from plugin) (__vsprintf_len)
+../../../../include_lib/liba/br23/btctrler.a(thread.c.o)
+                              hci_controller.c.o (symbol from plugin) (thread_owner_init)
+../../../../include_lib/liba/br23/btctrler.a(lbuf.c.o)
+                              hci_controller.c.o (symbol from plugin) (lbuf_init_btctrler)
+../../../../include_lib/liba/br23/btctrler.a(analog.c.o)
+                              lmp.c.o (symbol from plugin) (get_jl_chip_id)
+../../../../include_lib/liba/br23/btctrler.a(btagc.c.o)
+                              bredr_link.c.o (symbol from plugin) (btagc_ram_init)
+../../../../include_lib/liba/br23/btctrler.a(h4_uart_hw.c.o)
+                              h4_uart_interface_loop.c.o (symbol from plugin) (__uart_tx)
+../../../../include_lib/liba/br23/btctrler.a(btcontroller_heap.c.o)
+                              hci_controller.c.o (symbol from plugin) (btctler_nv_memory_apply)
+../../../../include_lib/liba/br23/btctrler.a(btcontroller_util.c.o)
+                              lmp.c.o (symbol from plugin) (btctler_little_endian_read_16)
+../../../../include_lib/liba/br23/btctrler.a(hw_dma.c.o)
+                              RF_ble.c.o (symbol from plugin) (hw_dma_init)
+../../../../include_lib/liba/br23/btctrler.a(aes128.c.o)
+                              hci_ll_cmds.c.o (symbol from plugin) (aes128_start)
+../../../../include_lib/liba/br23/btctrler.a(audio_codec.c.o)
+                              ll_common_iso.c.o (symbol from plugin) (PalCodecDataStartStream)
+../../../../include_lib/liba/br23/btctrler.a(tws_ll_scan.c.o)
+                              tws_le_link.c.o (symbol from plugin) (tws_ll_scan_open)
+../../../../include_lib/liba/br23/btctrler.a(tws_ll_adv.c.o)
+                              tws_le_link.c.o (symbol from plugin) (tws_ll_adv_set_params)
+../../../../include_lib/liba/br23/btctrler.a(lmp_utils.c.o)
+                              lmp.c.o (symbol from plugin) (endian_change)
+../../../../include_lib/liba/br23/btctrler.a(authentication.c.o)
+                              btencry_task.c.o (symbol from plugin) (function_E1)
+../../../../include_lib/liba/br23/btctrler.a(lmp_hci_cmd_parser.c.o)
+                              hci_controller.c.o (symbol from plugin) (hci_lmp_link_control_cmd_handler)
+../../../../include_lib/liba/br23/btctrler.a(bredr_utils.c.o)
+                              bredr_link.c.o (symbol from plugin) (bredr_clkn_after)
+../../../../include_lib/liba/br23/btctrler.a(bredr_fcc.c.o)
+                              vendor_manager.c.o (symbol from plugin) (bredr_fcc_set_param)
+../../../../include_lib/liba/br23/btctrler.a(tws_event.c.o)
+                              tws_task.c.o (symbol from plugin) (tws_event_sync_init)
+../../../../include_lib/liba/br23/crypto_toolbox_Osize.a(uECC_new.o)
+                              lmp.c.o (symbol from plugin) (uECC_secp192r1)
+../../../../include_lib/liba/br23/crypto_toolbox_Osize.a(bigint.o)
+                              authentication.c.o (symbol from plugin) (bi_poly_mod2)
+../../../../include_lib/liba/br23/crypto_toolbox_Osize.a(Crypto_hash.o)
+                              btencry_task.c.o (symbol from plugin) (g_function)
+../../../../include_lib/liba/br23/crypto_toolbox_Osize.a(hmac.o)
+                              Crypto_hash.o (symbol from plugin) (hmacCompute)
+../../../../include_lib/liba/br23/crypto_toolbox_Osize.a(sha256.o)
+                              Crypto_hash.o (symbol from plugin) (sha256Compute)
+../../../../include_lib/liba/br23/crypto_toolbox_Osize.a(aes_cmac.o)
+                              ll_bis.c.o (symbol from plugin) (aes_cmac)
+../../../../include_lib/liba/br23/crypto_toolbox_Osize.a(endian.o)
+                              sha256.o (symbol from plugin) (_swap32)
+../../../../include_lib/liba/br23/crypto_toolbox_Osize.a(rijndael.o)
+                              aes_cmac.o (symbol from plugin) (rijndaelSetupEncrypt)
+../../../../include_lib/liba/br23/cpu.a(fm_emitter.c.o)
+                              analog.c.o (symbol from plugin) (br23_fm_tx_mode)
+../../../../include_lib/liba/br23/cpu.a(key0_decode.c.o)
+                              init.c.o (symbol from plugin) (mkey_dummy_func)
+../../../../include_lib/liba/br23/cpu.a(fm_rf.c.o)
+                              fm_emitter.c.o (symbol from plugin) (fm_set_freq)
+../../../../include_lib/liba/br23/btstack.a(tws_host.c.o)
+                              tws_pair.c.o (symbol from plugin) (cheack_tws_connect_state)
+../../../../include_lib/liba/br23/media.a(audio_decoder.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin) (audio_decoder_task_create)
+../../../../include_lib/liba/br23/media.a(audio_encoder.c.o)
+                              obj/Release/cpu/br23/audio_enc/audio_enc.o (symbol from plugin) (audio_encoder_task_create)
+../../../../include_lib/liba/br23/media.a(audio_splicing.c.o)
+                              audio_decoder.c.o (symbol from plugin) (pcm_dual_to_dual_or_single)
+../../../../include_lib/liba/br23/media.a(audio_stream.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin) (audio_stream_open)
+../../../../include_lib/liba/br23/media.a(audio_adc.c.o)
+                              obj/Release/cpu/br23/audio_common/app_audio.o (symbol from plugin) (audio_adc_irq_handler)
+../../../../include_lib/liba/br23/media.a(audio_src.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin) (audio_hw_src_open)
+../../../../include_lib/liba/br23/media.a(audio_dac.c.o)
+                              obj/Release/cpu/br23/audio_common/app_audio.o (symbol from plugin) (audio_dac_ch_analog_gain_set)
+../../../../include_lib/liba/br23/media.a(audio_src_base.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin) (audio_src_base_filt_init)
+../../../../include_lib/liba/br23/media.a(mixer_cyclic.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin) (audio_mixer_output_stop)
+../../../../include_lib/liba/br23/media.a(audio_cfifo.c.o)
+                              audio_dac.c.o (symbol from plugin) (audio_cfifo_init)
+../../../../include_lib/liba/br23/media.a(audio_sample_sync.c.o)
+                              audio_dac.c.o (symbol from plugin) (audio_sample_sync_set_device)
+../../../../include_lib/liba/br23/media_app.a(audio_dec_app.c.o)
+                              obj/Release/cpu/br23/audio_dec/tone_player.o (symbol from plugin) (audio_dec_app_pp)
+../../../../include_lib/liba/br23/media_app.a(audio_dec_app_sync.c.o)
+                              audio_dec_app.c.o (symbol from plugin) (audio_dec_app_sync_probe)
+../../../../include_lib/liba/br23/media_app.a(audio_buf_sync.c.o)
+                              mixer_cyclic.c.o (symbol from plugin) (audio_buf_sync_open)
+../../../../include_lib/liba/br23/media_app.a(audio_output_dac.c.o)
+                              obj/Release/cpu/br23/audio_common/app_audio.o (symbol from plugin) (audio_dac_vol_set)
+../../../../include_lib/liba/br23/media_app.a(audio_eq_drc_apply.c.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin) (audio_eq_drc_parm_update)
+../../../../include_lib/liba/br23/media_app.a(audio_eq_high_bass.c.o)
+                              audio_eq_drc_apply.c.o (symbol from plugin) (audio_eq_high_bass_get_filter_info)
+../../../../include_lib/liba/br23/media_app.a(eq_config.c.o)
+                              audio_eq_drc_apply.c.o (symbol from plugin) (eq_get_filter_info)
+../../../../include_lib/liba/br23/media_app.a(eq_config_protocol.c.o)
+                              eq_config.c.o (symbol from plugin) (get_eq_coeff_tab)
+../../../../include_lib/liba/br23/media_app.a(audio_eq.c.o)
+                              audio_eq_drc_apply.c.o (symbol from plugin) (audio_eq_set_samplerate)
+../../../../include_lib/liba/br23/media_app.a(audio_drc.c.o)
+                              audio_eq_drc_apply.c.o (symbol from plugin) (audio_drc_set_samplerate)
+../../../../include_lib/liba/br23/update.a(lmp_ch_update.c.o)
+                              lmp.c.o (symbol from plugin) (lmp_ch_update_resume_hdl)
+../../../../include_lib/liba/br23/update.a(ble_ll_ch_update.c.o)
+                              obj/Release/apps/common/update/testbox_update.o (symbol from plugin) (ble_ll_ch_update_op)
+../../../../include_lib/liba/br23/update.a(update_main.c.o)
+                              obj/Release/apps/common/update/testbox_update.o (symbol from plugin) (app_active_update_task_init)
+../../../../include_lib/liba/br23/update.a(dual_bank_passive_update.c.o)
+                              obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_ota.o (symbol from plugin) (dual_bank_update_write)
+../../../../include_lib/liba/br23/update.a(version.z.o)
+                              ../../../../include_lib/liba/br23/cpu.a(startup.S.o) (lib_update_version)
+../../../../include_lib/liba/br23/update.a(encrypt_api.c.o)
+                              dual_bank_passive_update.c.o (symbol from plugin) (decode_data_by_user_key)
+../../../../include_lib/liba/br23/update.a(download_loop.c.o)
+                              update_main.c.o (symbol from plugin) (update_get_err_code)
+../../../../include_lib/liba/br23/update.a(flash_fs_api.c.o)
+                              dual_bank_passive_update.c.o (symbol from plugin) (jl_file_head_valid_check)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_ceil.o)
+                              ll_cis_master.c.o (symbol from plugin) (ceil)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_fabs.o)
+                              obj/Release/apps/common/cJSON/cJSON.o (symbol from plugin) (fabs)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_floor.o)
+                              obj/Release/apps/common/cJSON/cJSON.o (symbol from plugin) (floor)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_round.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin) (round)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_exp.o)
+                              eq_config_protocol.c.o (symbol from plugin) (exp)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_pow.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin) (pow)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_exp.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_exp.o) (__ieee754_exp)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_pow.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_sqrt.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_finite.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_exp.o) (finite)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_fpclassify.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_pow.o) (__fpclassifyd)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_lib_ver.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_exp.o) (__fdlib_version)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_matherr.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_exp.o) (matherr)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_nan.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_pow.o) (nan)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_rint.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_pow.o) (rint)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_scalbn.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_pow.o) (scalbn)
+C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_copysign.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_scalbn.o) (copysign)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-ctype_.o)
+                              obj/Release/apps/common/cJSON/cJSON.o (symbol from plugin) (__ctype_ptr__)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memchr.o)
+                              obj/Release/apps/common/cJSON/cJSON.o (symbol from plugin) (memchr)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memcmp.o)
+                              obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_device.o (symbol from plugin) (memcmp)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memcpy.o)
+                              bigint.o (symbol from plugin) (memcpy)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memmem.o)
+                              obj/Release/cpu/br23/chargestore.o (symbol from plugin) (memmem)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memset.o)
+                              bigint.o (symbol from plugin) (memset)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strchr.o)
+                              sdfile_new.c.o (symbol from plugin) (strchr)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strcmp.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec_tone.o (symbol from plugin) (strcmp)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strcpy.o)
+                              obj/Release/apps/common/cJSON/cJSON.o (symbol from plugin) (strcpy)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strlen.o)
+                              obj/Release/cpu/br23/audio_dec/audio_dec_tone.o (symbol from plugin) (strlen)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strncmp.o)
+                              obj/Release/apps/common/cJSON/cJSON.o (symbol from plugin) (strncmp)
+C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strrchr.o)
+                              audio_dec_app.c.o (symbol from plugin) (strrchr)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(adddf3.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_ceil.o) (__adddf3)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(comparedf2.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_pow.o) (__eqdf2)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(divdf3.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_exp.o) (__divdf3)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(fixdfsi.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_exp.o) (__fixdfsi)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(floatsidf.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_exp.o) (__floatsidf)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(muldf3.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_pow.o) (__muldf3)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(subdf3.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_exp.o) (__subdf3)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(fixunsdfsi.o)
+                              ..\..\..\..\cpu\br23\tools\sdk.elf.o (__fixunsdfsi)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(floatunsidf.o)
+                              ..\..\..\..\cpu\br23\tools\sdk.elf.o (__floatunsidf)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(udivdi3.o)
+                              ..\..\..\..\cpu\br23\tools\sdk.elf.o (__udivdi3)
+C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(udivmoddi4.o)
+                              C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(udivdi3.o) (__udivmoddi4)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 obj/Release/cpu/br23/adc_api.o (symbol from plugin)
+ .btstack_pool  0x00000000      0x3cc ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_common/app_audio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_dec/audio_dec.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_dec/audio_dec_midi_ctrl.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_dec/audio_dec_midi_file.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_dec/audio_dec_pc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_dec/audio_dec_tone.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_dec/audio_usb_mic.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_dec/tone_player.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_enc/audio_adc_demo.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_enc/audio_enc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/audio_enc/audio_mic_codec.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/charge.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/chargestore.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/clock_manager.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/ctmu.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/flash_interface.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/iic_hw.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/iic_soft.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/mcpwm.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/port_wkup.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/pwm_led.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/setup.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/spi.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/uart_dev.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/cpu/br23/uart_test.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/audio/decode/decode.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/audio/sine_make.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/bt_common/bt_test_api.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/cJSON/cJSON.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/debug/debug.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/device/norflash/norflash.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/jl_kws/jl_kws_algo.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/jl_kws/jl_kws_audio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/jl_kws/jl_kws_event.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/jl_kws/jl_kws_main.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/key/adkey.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/key/iokey.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/key/key_driver.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/key/touch_key.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/common/custom_cfg.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/JL_rcsp/rcsp_bluetooth.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/JL_rcsp/rcsp_updata/rcsp_ch_loader_download.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/JL_rcsp/rcsp_updata/rcsp_user_update.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/le_at_char_client.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/le_at_char_com.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/le_at_client.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/le_at_com.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/le_client_demo.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/le_nonconn_24g.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/multi_demo/le_multi_client.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/multi_demo/le_multi_common.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/multi_demo/le_multi_trans.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/spp_at_com.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/trans_data_demo/le_beacon.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/trans_data_demo/le_trans_data.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/jieli/trans_data_demo/spp_trans_data.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_ll_demo/ll_demo.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_ll_demo/ll_task.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_import.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_data.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_device.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_event.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_ota.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_service.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_template.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_base64.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_crc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_hmac.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_log.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_md5.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_sha1.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/update/testbox_update.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/update/uart_update.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/update/uart_update_master.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/update/update.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/cdc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/descriptor.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/hid.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/msd.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/msd_upgrade.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/task_pc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/uac1.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/uac_stream.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/usb_device.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/device/user_setup.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/adb.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/aoa.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/audio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/audio_demo.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/hid.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/usb_bulk_transfer.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/usb_ctrl_transfer.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/usb_host.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/host/usb_storage.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/usb_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/common/usb/usb_host_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/app_haier.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/haier.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/hal/uplus_hal_cli.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/hal/uplus_hal_flash.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/hal/uplus_hal_gpio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/hal/uplus_hal_pwr_mgmt.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/hal/uplus_hal_rtc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/hal/uplus_hal_systick.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/hal/uplus_hal_uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/hal/uplus_hal_wdt.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/le_uplus.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/pal/uplus_pal_ble.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/pal/uplus_pal_sys.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/pal/uplus_pal_timer.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/uplus/src/uplus.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_at_char_com.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_at_com.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_charge.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_chargestore.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_dongle.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_idle.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_main.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_multi_conn.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_power_manage.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/app_spp_and_le.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/at_char_cmds.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/at_char_uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/at_cmds.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/at_uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/lib_config/lib_btctrler_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/lib_config/lib_btstack_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/lib_config/lib_driver_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/lib_config/lib_media_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/lib_config/lib_profile_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/lib_config/lib_system_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/lib_config/lib_update_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/log_config.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/misc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/rtc_alarm.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/usb_hid_devices.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/user_cfg.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/version.o (symbol from plugin)
+ .text          0x00000000        0x0 obj/Release/apps/spp_and_le/board/br23/board_ac635n_demo.o (symbol from plugin)
+ .text          0x00000000        0x0 crc16.c.o (symbol from plugin)
+ .text          0x00000000        0x0 uart.c.o (symbol from plugin)
+ .text          0x00000000        0x0 usb.c.o (symbol from plugin)
+ .text          0x00000000        0x0 clock.c.o (symbol from plugin)
+ .text          0x00000000        0x0 gpio.c.o (symbol from plugin)
+ .text          0x00000000        0x0 timer.c.o (symbol from plugin)
+ .text          0x00000000        0x0 debug.c.o (symbol from plugin)
+ .text          0x00000000        0x0 wdt.c.o (symbol from plugin)
+ .text          0x00000000        0x0 efuse.c.o (symbol from plugin)
+ .text          0x00000000        0x0 vm.c.o (symbol from plugin)
+ .text          0x00000000        0x0 p33.c.o (symbol from plugin)
+ .text          0x00000000        0x0 power_hw.c.o (symbol from plugin)
+ .text          0x00000000        0x0 power_wakeup.c.o (symbol from plugin)
+ .text          0x00000000        0x0 rtc.c.o (symbol from plugin)
+ .text          0x00000000        0x0 pmu_calibrate.c.o (symbol from plugin)
+ .text          0x00000000        0x0 otg.c.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_phy.c.o (symbol from plugin)
+ .text          0x00000000        0x0 usb_setup.c.o (symbol from plugin)
+ .text          0x00000000        0x0 descriptor.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+ .noop_version  0x00000000       0x18 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+ .text          0x00000000        0x0 encryption.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lp_timer_hw.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lrc_hw.c.o (symbol from plugin)
+ .text          0x00000000        0x0 misc_hw.c.o (symbol from plugin)
+ .text          0x00000000        0x0 os_api.c.o (symbol from plugin)
+ .text          0x00000000        0x0 app_core.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ASCII_lib.c.o (symbol from plugin)
+ .text          0x00000000        0x0 circular_buf.c.o (symbol from plugin)
+ .text          0x00000000        0x0 syscfg_api.c.o (symbol from plugin)
+ .text          0x00000000        0x0 sbrk.c.o (symbol from plugin)
+ .text          0x00000000        0x0 common.c.o (symbol from plugin)
+ .text          0x00000000        0x0 vmalloc.c.o (symbol from plugin)
+ .text          0x00000000        0x0 heap_mmu.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hwi.c.o (symbol from plugin)
+ .text          0x00000000        0x0 port.c.o (symbol from plugin)
+ .text          0x00000000        0x0 pmalloc.c.o (symbol from plugin)
+ .text          0x00000000        0x0 memory.c.o (symbol from plugin)
+ .text          0x00000000        0x0 device_api.c.o (symbol from plugin)
+ .text          0x00000000        0x0 event.c.o (symbol from plugin)
+ .text          0x00000000        0x0 sdfile_new.c.o (symbol from plugin)
+ .text          0x00000000        0x0 vfs.c.o (symbol from plugin)
+ .text          0x00000000        0x0 init.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lbuf.c.o (symbol from plugin)
+ .text          0x00000000        0x0 puthex.c.o (symbol from plugin)
+ .text          0x00000000        0x0 printf-stdarg.c.o (symbol from plugin)
+ .text          0x00000000        0x0 log.c.o (symbol from plugin)
+ .text          0x00000000        0x0 task.c.o (symbol from plugin)
+ .text          0x00000000        0x0 timer.c.o (symbol from plugin)
+ .text          0x00000000        0x0 queue.c.o (symbol from plugin)
+ .text          0x00000000        0x0 main.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tasks.c.o (symbol from plugin)
+ .text          0x00000000        0x0 list.c.o (symbol from plugin)
+ .text          0x00000000        0x0 cfg_bin.c.o (symbol from plugin)
+ .text          0x00000000        0x0 cfg_btif.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btstack_task.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hci_vendor.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btstack_memory.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btstack_linked_list.c.o (symbol from plugin)
+ .text          0x00000000        0x0 utils.c.o (symbol from plugin)
+ .text          0x00000000        0x0 run_loop.c.o (symbol from plugin)
+ .text          0x00000000        0x0 l2cap.c.o (symbol from plugin)
+ .text          0x00000000        0x0 user_interface.c.o (symbol from plugin)
+ .text          0x00000000        0x0 le_device_db_memory.c.o (symbol from plugin)
+ .text          0x00000000        0x0 l2cap_signaling.c.o (symbol from plugin)
+ .text          0x00000000        0x0 sdp_util.c.o (symbol from plugin)
+ .text          0x00000000        0x0 avctp_user.c.o (symbol from plugin)
+ .text          0x00000000        0x0 remote_device_db.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bt_configs.c.o (symbol from plugin)
+ .text          0x00000000        0x0 att_send.c.o (symbol from plugin)
+ .text          0x00000000        0x0 client_user.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btstack_main.c.o (symbol from plugin)
+ .text          0x00000000        0x0 att_dispatch.c.o (symbol from plugin)
+ .text          0x00000000        0x0 att_server.c.o (symbol from plugin)
+ .text          0x00000000        0x0 sm.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btstack_sys_timer.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bt_audio.c.o (symbol from plugin)
+ .text          0x00000000        0x0 a2dp.c.o (symbol from plugin)
+ .text          0x00000000        0x0 a2dp_sink.c.o (symbol from plugin)
+ .text          0x00000000        0x0 a2dp_source.c.o (symbol from plugin)
+ .text          0x00000000        0x0 avdtp.c.o (symbol from plugin)
+ .text          0x00000000        0x0 avctp.c.o (symbol from plugin)
+ .text          0x00000000        0x0 avrcp.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hfp_profile.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hfp_ag_profile.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hid.c.o (symbol from plugin)
+ .text          0x00000000        0x0 spp_profile.c.o (symbol from plugin)
+ .text          0x00000000        0x0 gatt_client.c.o (symbol from plugin)
+ .text          0x00000000        0x0 rfcomm.c.o (symbol from plugin)
+ .text          0x00000000        0x0 sdp.c.o (symbol from plugin)
+ .text          0x00000000        0x0 sdp_master.c.o (symbol from plugin)
+ .text          0x00000000        0x0 remote_device_list.c.o (symbol from plugin)
+ .text          0x00000000        0x0 database_file.c.o (symbol from plugin)
+ .text          0x00000000        0x0 att_db.c.o (symbol from plugin)
+ .text          0x00000000        0x0 iap_profile.c.o (symbol from plugin)
+ .text          0x00000000        0x0 RF.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_le_acc.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_le_link.c.o (symbol from plugin)
+ .text          0x00000000        0x0 link_bulk.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_hci.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr_frame.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr_link.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr_slot_timer.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr_low_power.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr_dut.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_link.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_pair.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_data_forwarding.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_media_sync.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_task.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_power_balance.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_sync_call.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_tx_sync.c.o (symbol from plugin)
+ .text          0x00000000        0x0 local_media_sync.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btctrler_task.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btencry_task.c.o (symbol from plugin)
+ .text          0x00000000        0x0 h4_controller_interface.c.o (symbol from plugin)
+ .text          0x00000000        0x0 h4_uart_interface_loop.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hci_device_manager.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hci_controller.c.o (symbol from plugin)
+ .text          0x00000000        0x0 device_manager.c.o (symbol from plugin)
+ .text          0x00000000        0x0 link_task.c.o (symbol from plugin)
+ .text          0x00000000        0x0 vendor_manager.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hci_ll_cmds.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_resolve_list.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_extended_advertising.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_init.c.o (symbol from plugin)
+ .text          0x00000000        0x0 link_layer.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_vendor.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hci_ll_5_cmds.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_data_extension.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_afh.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_ext_init.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_multiple_phys.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_keys.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_events.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_scan.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_common_iso.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_slave.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_adv.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_bis.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hci_ll.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_ext_scan.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_periodic_advertising.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_white_list.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_ext_adv.c.o (symbol from plugin)
+ .text          0x00000000        0x0 RF_ble5.c.o (symbol from plugin)
+ .text          0x00000000        0x0 RF_ble.c.o (symbol from plugin)
+ .text          0x00000000        0x0 analog_ble.c.o (symbol from plugin)
+ .text          0x00000000        0x0 le_low_power.c.o (symbol from plugin)
+ .text          0x00000000        0x0 direct_test_dut.c.o (symbol from plugin)
+ .text          0x00000000        0x0 multilink_schedule.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_master.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_cis.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_bis_slave.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_cis_slave.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_msg.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ll_cis_master.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ../../../../include_lib/liba/br23/btctrler.a(version.z.o)
+ .text          0x00000000        0x0 misc_hw.c.o (symbol from plugin)
+ .text          0x00000000        0x0 aes_hw.c.o (symbol from plugin)
+ .text          0x00000000        0x0 sys_timer.c.o (symbol from plugin)
+ .text          0x00000000        0x0 vsprintf.c.o (symbol from plugin)
+ .text          0x00000000        0x0 thread.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lbuf.c.o (symbol from plugin)
+ .text          0x00000000        0x0 analog.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btagc.c.o (symbol from plugin)
+ .text          0x00000000        0x0 h4_uart_hw.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btcontroller_heap.c.o (symbol from plugin)
+ .text          0x00000000        0x0 btcontroller_util.c.o (symbol from plugin)
+ .text          0x00000000        0x0 hw_dma.c.o (symbol from plugin)
+ .text          0x00000000        0x0 aes128.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_codec.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_ll_scan.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_ll_adv.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_utils.c.o (symbol from plugin)
+ .text          0x00000000        0x0 authentication.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_hci_cmd_parser.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr_utils.c.o (symbol from plugin)
+ .text          0x00000000        0x0 bredr_fcc.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_event.c.o (symbol from plugin)
+ .text          0x00000000        0x0 uECC_new.o (symbol from plugin)
+ .text          0x00000000        0x0 bigint.o (symbol from plugin)
+ .text          0x00000000        0x0 Crypto_hash.o (symbol from plugin)
+ .text          0x00000000        0x0 hmac.o (symbol from plugin)
+ .text          0x00000000        0x0 sha256.o (symbol from plugin)
+ .text          0x00000000        0x0 aes_cmac.o (symbol from plugin)
+ .text          0x00000000        0x0 endian.o (symbol from plugin)
+ .text          0x00000000        0x0 rijndael.o (symbol from plugin)
+ .text          0x00000000        0x0 fm_emitter.c.o (symbol from plugin)
+ .text          0x00000000        0x0 key0_decode.c.o (symbol from plugin)
+ .text          0x00000000        0x0 fm_rf.c.o (symbol from plugin)
+ .text          0x00000000        0x0 tws_host.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_decoder.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_encoder.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_splicing.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_stream.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_adc.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_src.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_dac.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_src_base.c.o (symbol from plugin)
+ .text          0x00000000        0x0 mixer_cyclic.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_cfifo.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_sample_sync.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_dec_app.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_dec_app_sync.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_buf_sync.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_output_dac.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_eq_drc_apply.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_eq_high_bass.c.o (symbol from plugin)
+ .text          0x00000000        0x0 eq_config.c.o (symbol from plugin)
+ .text          0x00000000        0x0 eq_config_protocol.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_eq.c.o (symbol from plugin)
+ .text          0x00000000        0x0 audio_drc.c.o (symbol from plugin)
+ .text          0x00000000        0x0 lmp_ch_update.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ble_ll_ch_update.c.o (symbol from plugin)
+ .text          0x00000000        0x0 update_main.c.o (symbol from plugin)
+ .text          0x00000000        0x0 dual_bank_passive_update.c.o (symbol from plugin)
+ .text          0x00000000        0x0 ../../../../include_lib/liba/br23/update.a(version.z.o)
+ .text          0x00000000        0x0 encrypt_api.c.o (symbol from plugin)
+ .text          0x00000000        0x0 download_loop.c.o (symbol from plugin)
+ .text          0x00000000        0x0 flash_fs_api.c.o (symbol from plugin)
+ .text          0x00000000      0x10c C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_ceil.o)
+ .text          0x00000000        0x4 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_fabs.o)
+ .text          0x00000000       0xfc C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_floor.o)
+ .text          0x00000000       0xa2 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_round.o)
+ .text          0x00000000       0xce C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_exp.o)
+ .rodata.str1.1
+                0x00000000        0x4 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_exp.o)
+ .text          0x00000000      0x28e C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_pow.o)
+ .rodata.str1.1
+                0x00000000        0x4 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-w_pow.o)
+ .text          0x00000000      0x280 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_exp.o)
+ .rodata.cst16  0x00000000       0x30 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_exp.o)
+ .text          0x00000000      0x84a C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_pow.o)
+ .rodata.str1.1
+                0x00000000        0x1 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_pow.o)
+ .rodata.cst16  0x00000000       0x30 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_pow.o)
+ .text          0x00000000      0x148 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000       0x10 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_finite.o)
+ .text          0x00000000       0x62 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x4 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x4 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0xa C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_nan.o)
+ .text          0x00000000      0x120 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_rint.o)
+ .rodata.cst16  0x00000000       0x10 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_rint.o)
+ .text          0x00000000       0xe2 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_scalbn.o)
+ .text          0x00000000       0x20 C:\JL\pi32\pi32v2-lib\r3\libm.a(lib_a-s_copysign.o)
+ .text          0x00000000        0x0 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-ctype_.o)
+ .rodata        0x00000000      0x281 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-ctype_.o)
+ .data          0x00000000        0x4 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-ctype_.o)
+ .text          0x00000000       0x18 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memchr.o)
+ .text          0x00000000       0x38 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memcmp.o)
+ .text          0x00000000       0xc2 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memcpy.o)
+ .text          0x00000000       0x28 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memmem.o)
+ .text          0x00000000       0x2c C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-memset.o)
+ .text          0x00000000       0xa0 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strcmp.o)
+ .text          0x00000000       0x6e C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strcpy.o)
+ .text          0x00000000        0xc C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strlen.o)
+ .text          0x00000000       0x1a C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strncmp.o)
+ .text          0x00000000       0x24 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strrchr.o)
+ .text          0x00000000      0x1a0 C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(comparedf2.o)
+ .text          0x00000000      0x346 C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(divdf3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+psram            0x00800000         0x00200000         xrw
+code0            0x01e00120         0x00100000         xr
+ram0             0x00000000         0x0002bf00         xrw
+ram1             0x0002c000         0x00003f80         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD obj/Release/cpu/br23/adc_api.o
+LOAD ..\..\..\..\cpu\br23\tools\sdk.elf.o
+LOAD obj/Release/cpu/br23/audio_common/app_audio.o
+LOAD obj/Release/cpu/br23/audio_dec/audio_dec.o
+LOAD obj/Release/cpu/br23/audio_dec/audio_dec_midi_ctrl.o
+LOAD obj/Release/cpu/br23/audio_dec/audio_dec_midi_file.o
+LOAD obj/Release/cpu/br23/audio_dec/audio_dec_pc.o
+LOAD obj/Release/cpu/br23/audio_dec/audio_dec_tone.o
+LOAD obj/Release/cpu/br23/audio_dec/audio_usb_mic.o
+LOAD obj/Release/cpu/br23/audio_dec/tone_player.o
+LOAD obj/Release/cpu/br23/audio_enc/audio_adc_demo.o
+LOAD obj/Release/cpu/br23/audio_enc/audio_enc.o
+LOAD obj/Release/cpu/br23/audio_enc/audio_mic_codec.o
+LOAD obj/Release/cpu/br23/charge.o
+LOAD obj/Release/cpu/br23/chargestore.o
+LOAD obj/Release/cpu/br23/clock_manager.o
+LOAD obj/Release/cpu/br23/ctmu.o
+LOAD obj/Release/cpu/br23/flash_interface.o
+LOAD obj/Release/cpu/br23/iic_hw.o
+LOAD obj/Release/cpu/br23/iic_soft.o
+LOAD obj/Release/cpu/br23/mcpwm.o
+LOAD obj/Release/cpu/br23/port_wkup.o
+LOAD obj/Release/cpu/br23/pwm_led.o
+LOAD obj/Release/cpu/br23/setup.o
+LOAD obj/Release/cpu/br23/spi.o
+LOAD obj/Release/cpu/br23/uart_dev.o
+LOAD obj/Release/cpu/br23/uart_test.o
+LOAD obj/Release/apps/common/audio/decode/decode.o
+LOAD obj/Release/apps/common/audio/sine_make.o
+LOAD obj/Release/apps/common/bt_common/bt_test_api.o
+LOAD obj/Release/apps/common/cJSON/cJSON.o
+LOAD obj/Release/apps/common/debug/debug.o
+LOAD obj/Release/apps/common/device/norflash/norflash.o
+LOAD obj/Release/apps/common/jl_kws/jl_kws_algo.o
+LOAD obj/Release/apps/common/jl_kws/jl_kws_audio.o
+LOAD obj/Release/apps/common/jl_kws/jl_kws_event.o
+LOAD obj/Release/apps/common/jl_kws/jl_kws_main.o
+LOAD obj/Release/apps/common/key/adkey.o
+LOAD obj/Release/apps/common/key/iokey.o
+LOAD obj/Release/apps/common/key/key_driver.o
+LOAD obj/Release/apps/common/key/touch_key.o
+LOAD obj/Release/apps/common/third_party_profile/common/custom_cfg.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/JL_rcsp/rcsp_bluetooth.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/JL_rcsp/rcsp_updata/rcsp_ch_loader_download.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/JL_rcsp/rcsp_updata/rcsp_user_update.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/le_at_char_client.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/le_at_char_com.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/le_at_client.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/le_at_com.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/le_client_demo.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/le_nonconn_24g.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/multi_demo/le_multi_client.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/multi_demo/le_multi_common.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/multi_demo/le_multi_trans.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/spp_at_com.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/trans_data_demo/le_beacon.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/trans_data_demo/le_trans_data.o
+LOAD obj/Release/apps/common/third_party_profile/jieli/trans_data_demo/spp_trans_data.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_ll_demo/ll_demo.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_ll_demo/ll_task.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_import.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_data.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_device.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_event.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_llsync_ota.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_service.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_template.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_base64.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_crc.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_hmac.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_log.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_md5.o
+LOAD obj/Release/apps/common/third_party_profile/Tecent_LL/tecent_protocol/ble_qiot_utils_sha1.o
+LOAD obj/Release/apps/common/update/testbox_update.o
+LOAD obj/Release/apps/common/update/uart_update.o
+LOAD obj/Release/apps/common/update/uart_update_master.o
+LOAD obj/Release/apps/common/update/update.o
+LOAD obj/Release/apps/common/usb/device/cdc.o
+LOAD obj/Release/apps/common/usb/device/descriptor.o
+LOAD obj/Release/apps/common/usb/device/hid.o
+LOAD obj/Release/apps/common/usb/device/msd.o
+LOAD obj/Release/apps/common/usb/device/msd_upgrade.o
+LOAD obj/Release/apps/common/usb/device/task_pc.o
+LOAD obj/Release/apps/common/usb/device/uac1.o
+LOAD obj/Release/apps/common/usb/device/uac_stream.o
+LOAD obj/Release/apps/common/usb/device/usb_device.o
+LOAD obj/Release/apps/common/usb/device/user_setup.o
+LOAD obj/Release/apps/common/usb/host/adb.o
+LOAD obj/Release/apps/common/usb/host/aoa.o
+LOAD obj/Release/apps/common/usb/host/audio.o
+LOAD obj/Release/apps/common/usb/host/audio_demo.o
+LOAD obj/Release/apps/common/usb/host/hid.o
+LOAD obj/Release/apps/common/usb/host/usb_bulk_transfer.o
+LOAD obj/Release/apps/common/usb/host/usb_ctrl_transfer.o
+LOAD obj/Release/apps/common/usb/host/usb_host.o
+LOAD obj/Release/apps/common/usb/host/usb_storage.o
+LOAD obj/Release/apps/common/usb/usb_config.o
+LOAD obj/Release/apps/common/usb/usb_host_config.o
+LOAD obj/Release/apps/uplus/app_haier.o
+LOAD obj/Release/apps/uplus/haier.o
+LOAD obj/Release/apps/uplus/src/hal/uplus_hal_cli.o
+LOAD obj/Release/apps/uplus/src/hal/uplus_hal_flash.o
+LOAD obj/Release/apps/uplus/src/hal/uplus_hal_gpio.o
+LOAD obj/Release/apps/uplus/src/hal/uplus_hal_pwr_mgmt.o
+LOAD obj/Release/apps/uplus/src/hal/uplus_hal_rtc.o
+LOAD obj/Release/apps/uplus/src/hal/uplus_hal_systick.o
+LOAD obj/Release/apps/uplus/src/hal/uplus_hal_uart.o
+LOAD obj/Release/apps/uplus/src/hal/uplus_hal_wdt.o
+LOAD obj/Release/apps/uplus/src/le_uplus.o
+LOAD obj/Release/apps/uplus/src/pal/uplus_pal_ble.o
+LOAD obj/Release/apps/uplus/src/pal/uplus_pal_sys.o
+LOAD obj/Release/apps/uplus/src/pal/uplus_pal_timer.o
+LOAD obj/Release/apps/uplus/src/uplus.o
+LOAD obj/Release/apps/spp_and_le/app_at_char_com.o
+LOAD obj/Release/apps/spp_and_le/app_at_com.o
+LOAD obj/Release/apps/spp_and_le/app_charge.o
+LOAD obj/Release/apps/spp_and_le/app_chargestore.o
+LOAD obj/Release/apps/spp_and_le/app_dongle.o
+LOAD obj/Release/apps/spp_and_le/app_idle.o
+LOAD obj/Release/apps/spp_and_le/app_main.o
+LOAD obj/Release/apps/spp_and_le/app_multi_conn.o
+LOAD obj/Release/apps/spp_and_le/app_power_manage.o
+LOAD obj/Release/apps/spp_and_le/app_spp_and_le.o
+LOAD obj/Release/apps/spp_and_le/at_char_cmds.o
+LOAD obj/Release/apps/spp_and_le/at_char_uart.o
+LOAD obj/Release/apps/spp_and_le/at_cmds.o
+LOAD obj/Release/apps/spp_and_le/at_uart.o
+LOAD obj/Release/apps/spp_and_le/lib_config/lib_btctrler_config.o
+LOAD obj/Release/apps/spp_and_le/lib_config/lib_btstack_config.o
+LOAD obj/Release/apps/spp_and_le/lib_config/lib_driver_config.o
+LOAD obj/Release/apps/spp_and_le/lib_config/lib_media_config.o
+LOAD obj/Release/apps/spp_and_le/lib_config/lib_profile_config.o
+LOAD obj/Release/apps/spp_and_le/lib_config/lib_system_config.o
+LOAD obj/Release/apps/spp_and_le/lib_config/lib_update_config.o
+LOAD obj/Release/apps/spp_and_le/log_config.o
+LOAD obj/Release/apps/spp_and_le/misc.o
+LOAD obj/Release/apps/spp_and_le/rtc_alarm.o
+LOAD obj/Release/apps/spp_and_le/usb_hid_devices.o
+LOAD obj/Release/apps/spp_and_le/user_cfg.o
+LOAD obj/Release/apps/spp_and_le/version.o
+LOAD obj/Release/apps/spp_and_le/board/br23/board_ac635n_demo.o
+START GROUP
+LOAD ../../../../include_lib/liba/br23/cpu.a
+LOAD ../../../../include_lib/liba/br23/system.a
+LOAD ../../../../include_lib/liba/br23/btstack.a
+LOAD ../../../../include_lib/liba/br23/btctrler.a
+LOAD ../../../../include_lib/liba/br23/crypto_toolbox_Osize.a
+LOAD ../../../../include_lib/liba/br23/rcsp_stack.a
+LOAD ../../../../include_lib/liba/br23/agreement.a
+LOAD ../../../../include_lib/liba/br23/JL_Phone_Call.a
+LOAD ../../../../include_lib/liba/br23/math.a
+END GROUP
+LOAD ../../../../include_lib/liba/br23/media.a
+LOAD ../../../../include_lib/liba/br23/media_app.a
+LOAD ../../../../include_lib/liba/br23/opus_enc_lib.a
+LOAD ../../../../include_lib/liba/br23/speex_enc_lib.a
+LOAD ../../../../include_lib/liba/br23/bfilterfun_lib.a
+LOAD ../../../../include_lib/liba/br23/wtg_dec_lib.a
+LOAD ../../../../include_lib/liba/br23/wav_dec_lib.a
+LOAD ../../../../include_lib/liba/br23/wtgv2_dec_lib.a
+LOAD ../../../../include_lib/liba/br23/lib_midi_dec.a
+LOAD ../../../../include_lib/liba/br23/update.a
+                0x0002c000                RAM1_LIMIT_L = 0x2c000
+                0x00030000                RAM1_LIMIT_H = 0x30000
+                0x00000080                UPDATA_SIZE = 0x80
+                0x0002ff80                UPDATA_BEG = (RAM1_LIMIT_H - UPDATA_SIZE)
+                0x0002c000                RAM1_BEGIN = RAM1_LIMIT_L
+                0x0002ff80                RAM1_END = (RAM1_LIMIT_H - UPDATA_SIZE)
+                0x00003f80                RAM1_SIZE = (RAM1_END - RAM1_BEGIN)
+                0x00000000                RAM_LIMIT_L = 0x0
+                0x0002c000                RAM_LIMIT_H = 0x2c000
+                0x00000100                ISR_SIZE = 0x100
+                0x0002bf00                ISR_BASE = (RAM_LIMIT_H - ISR_SIZE)
+                0x00000000                RAM_BEGIN = RAM_LIMIT_L
+                0x0002bf00                RAM_END = (RAM_LIMIT_H - ISR_SIZE)
+                0x0002bf00                RAM_SIZE = (RAM_END - RAM_BEGIN)
+                0x00001400                BANK_SIZE = 0x1400
+                0x00800000                PSRAM_BEG = 0x800000
+                0x00200000                PSRAM_SIZE = 0x200000
+                0x01e000c0                CODE_BEG = 0x1e000c0
+                0x000f9000                UPDATA_BREDR_BASE_BEG = 0xf9000
+                0x00000003                MIC_EFFECT_EQ_SECTION = 0x3
+                0x0000000d                EQ_SECTION_NUM = (0xa + MIC_EFFECT_EQ_SECTION)
+                0x001127a4                memmem = 0x1127a4
+                0x001127a8                memcpy = 0x1127a8
+                0x001127ac                memmove = 0x1127ac
+                0x001127b0                memcmp = 0x1127b0
+                0x001127b4                memset = 0x1127b4
+                0x001127b8                strcmp = 0x1127b8
+                0x001127bc                strcpy = 0x1127bc
+                0x001127c0                strlen = 0x1127c0
+                0x001127c4                strncmp = 0x1127c4
+                0x001127c8                strstr = 0x1127c8
+                0x001127cc                flush_dcache = 0x1127cc
+                0x001127d0                flushinv_dcache = 0x1127d0
+                0x001127d4                sfc_suspend = 0x1127d4
+                0x001127d8                sfc_resume = 0x1127d8
+                0x001127e0                chip_crc16 = 0x1127e0
+                0x001127f0                nvram_set_boot_state = 0x1127f0
+                0x0002bf00                _IRQ_MEM_ADDR = 0x2bf00
+                0x0002bdc0                _MASK_MEM_BEGIN = 0x2bdc0
+                0x0000012c                _MASK_MEM_SIZE = 0x12c
+                0x00800000                . = ORIGIN (psram)
+
+.psram_text     0x00800000        0x0
+
+.psram
+                0x01e00120                . = ORIGIN (code0)
+
+.text           0x01e00120    0x25ad4
+                0x01e00120                text_code_begin = .
+                [!provide]                PROVIDE (text_rodata_begin, .)
+ *(.startup.text)
+ .startup.text  0x01e00120       0x9a ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+                0x01e00120                _start
+                0x01e001ba                bank_stub_start = .
+ *(.bank.stub.*)
+                0x00000000                bank_stub_size = (. - bank_stub_start)
+ *(.aac_const)
+ *(.aac_code)
+ *(.alac_const)
+ *(.alac_code)
+ *(.alac_dec_code)
+ *(.bt_aac_dec_eng_const)
+ *(.bt_aac_dec_eng_code)
+ *(.bt_aac_dec_core_code)
+ *(.bt_aac_dec_core_sparse_code)
+ *(.dts_dec_const)
+ *(.gpio_ram)
+ *fill*         0x01e001ba        0x2 
+ .gpio_ram      0x01e001bc      0x2e4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.LED_code)
+ *(.LED_const)
+                0x01e004a0                . = ALIGN (0x4)
+ *(.usr_timer_const)
+ *(.usr_timer_code)
+ .usr_timer_code
+                0x01e004a0      0x2ec ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.timer_const)
+ *(.timer_code)
+ *(.cbuf_const)
+ *(.cbuf_code)
+ .cbuf_code     0x01e0078c       0xec ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.fm_data_code)
+ *(.fm_data_const)
+                0x01e00878                . = ALIGN (0x4)
+ *(.cvsd_const)
+ *(.cvsd_code)
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                gsensor_dev_begin = .
+ *(.gsensor_dev)
+                0x01e00878                gsensor_dev_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                codec_dev_begin = .
+ *(.codec_dev)
+                0x01e00878                codec_dev_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                hrsensor_dev_begin = .
+ *(.hrsensor_dev)
+                0x01e00878                hrsensor_dev_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                fm_dev_begin = .
+ *(.fm_dev)
+                0x01e00878                fm_dev_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                fm_emitter_dev_begin = .
+ *(.fm_emitter_dev)
+                0x01e00878                fm_emitter_dev_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                adapter_idev_begin = .
+ *(.adapter_idev)
+                0x01e00878                adapter_idev_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                adapter_odev_begin = .
+ *(.adapter_odev)
+                0x01e00878                adapter_odev_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                adapter_enc_begin = .
+ *(.adapter_enc)
+                0x01e00878                adapter_enc_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                adapter_decoder_begin = .
+ *(.adapter_decoder)
+                0x01e00878                adapter_decoder_end = .
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                adapter_encoder_begin = .
+ *(.adapter_encoder)
+                0x01e00878                adapter_encoder_end = .
+                0x01e00878                chargeIc_dev_begin = .
+ *(.chargeIc_dev)
+                0x01e00878                chargeIc_dev_end = .
+                0x01e00878                . = ALIGN (0x4)
+ *(.opcore_table_maskrom)
+ *(.bfilt_table_maskroom)
+ *(.opcore_maskrom)
+ *(.bfilt_code)
+ *(.bfilt_const)
+                0x01e00878                . = ALIGN (0x4)
+                0x01e00878                btctler_code_start = .
+                0x01e00878                BTCTLER_CONTROLLER_CODE_START = .
+ *(.bt_rf_const)
+ .bt_rf_const   0x01e00878      0x411 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.bt_rf_code)
+ *fill*         0x01e00c89        0x1 
+ .bt_rf_code    0x01e00c8a     0x13de ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.vendor_manager_const)
+ *(.vendor_manager_code)
+ *(.device_manager_const)
+ *(.device_manager_code)
+ *(.hci_controller_const)
+ .hci_controller_const
+                0x01e02068       0x28 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.hci_controller_code)
+ .hci_controller_code
+                0x01e02090      0x5b6 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.hci_interface_const)
+ *(.hci_interface_code)
+                0x00001dce                BTCTLER_CONTROLLER_CODE_SIZE = ABSOLUTE ((. - BTCTLER_CONTROLLER_CODE_START))
+                0x01e02646                BTCTLER_LE_CONTROLLER_CODE_START = .
+ *(.ble_rf_const)
+ *fill*         0x01e02646        0x2 
+ .ble_rf_const  0x01e02648       0x24 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_rf_code)
+ .ble_rf_code   0x01e0266c     0x274a ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_ll_const)
+ *fill*         0x01e04db6        0x2 
+ .ble_ll_const  0x01e04db8       0x98 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_ll_code)
+ .ble_ll_code   0x01e04e50     0x2724 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_hci_const)
+ .ble_hci_const
+                0x01e07574       0x19 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_hci_code)
+ *fill*         0x01e0758d        0x1 
+ .ble_hci_code  0x01e0758e      0x548 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00005490                BTCTLER_LE_CONTROLLER_CODE_SIZE = ABSOLUTE ((. - BTCTLER_LE_CONTROLLER_CODE_START))
+                0x01e07ad6                BTCTLER_CL_CODE_START = .
+ *(.bredr_irq)
+ *(.bredr_irq_code)
+ *(.bredr_irq_const)
+ *(.classic_lmp_const)
+ *(.classic_lmp_linkbulk_const)
+ *(.classic_lmp_code)
+ .classic_lmp_code
+                0x01e07ad6      0x562 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.classic_lmp_linkbulk_code)
+ *(.classic_hci_const)
+ *(.classic_hci_code)
+                0x01e08038                LMP_ENC_CODE_START = .
+ *(.classic_lmp_auth_const)
+ *(.classic_lmp_bigint_const)
+ *(.classic_lmp_crypt_const)
+ *(.classic_lmp_ecdh_const)
+ *(.classic_lmp_hmac_const)
+ *(.classic_lmp_auth_code)
+ *(.classic_lmp_bigint_code)
+ *(.classic_lmp_crypt_code)
+ *(.classic_lmp_ecdh_code)
+ *(.classic_lmp_hmac_code)
+                0x00000000                LMP_ENC_CODE_SIZE = ABSOLUTE ((. - LMP_ENC_CODE_START))
+ *(.classic_rf_const)
+ .classic_rf_const
+                0x01e08038       0x36 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.classic_rf_code)
+ .classic_rf_code
+                0x01e0806e      0xade ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.classic_bb_const)
+ *(.classic_bb_code)
+                0x00001076                BTCTLER_CL_CODE_SIZE = ABSOLUTE ((. - BTCTLER_CL_CODE_START))
+                0x01e08b4c                . = ALIGN (0x4)
+ *(.classic_tws_const)
+ *(.classic_tws_code)
+ .classic_tws_code
+                0x01e08b4c        0x2 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.classic_tws_code.esco)
+ *(.tws_media_sync_code)
+ *(.tws_media_sync_const)
+ *(.tws_data_forward_code)
+ *(.tws_data_forward_const)
+                0x01e08b50                . = ALIGN (0x4)
+ *fill*         0x01e08b4e        0x2 
+                0x01e08b50                tws_func_stub_begin = .
+ *(.tws_func_stub)
+ .tws_func_stub
+                0x01e08b50        0x8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e08b58                tws_func_stub_end = .
+ *(.lmp_irq_code)
+ .lmp_irq_code  0x01e08b58       0x6e ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.link_bulk_code)
+ *(.frame_irq_code)
+                0x01e08bc8                . = ALIGN (0x4)
+ *fill*         0x01e08bc6        0x2 
+ *(.link_task_const)
+ *(.link_task_code)
+                0x01e08bc8                . = ALIGN (0x4)
+ *(.classic_irq_const)
+ *(.classic_irq_code)
+                0x01e08bc8                . = ALIGN (0x4)
+ *(.tws_irq_code)
+                0x01e08bc8                . = ALIGN (0x4)
+                0x01e08bc8                tws_sync_call_begin = .
+ *(.tws_sync_call)
+ .tws_sync_call
+                0x01e08bc8        0xc ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e08bd4                tws_sync_call_end = .
+                0x01e08bd4                . = ALIGN (0x4)
+                0x01e08bd4                tws_sync_channel_begin = .
+ *(.tws_sync_channel.0)
+ *(.tws_sync_channel.1)
+ *(.tws_sync_channel.2)
+ *(.tws_sync_channel.3)
+ *(.tws_sync_channel.4)
+ *(.tws_sync_channel.5)
+ *(.tws_sync_channel.6)
+ *(.tws_sync_channel.7)
+ *(.tws_sync_channel.8)
+ *(.tws_sync_channel.9)
+ *(.tws_sync_channel.10)
+ *(.tws_sync_channel.11)
+ *(.tws_sync_channel.12)
+ *(.tws_sync_channel.13)
+                0x01e08bd4                tws_sync_channel_end = .
+                0x01e08bd4                btctler_code_end = .
+                0x01e08bd4                . = ALIGN (0x4)
+                0x01e08bd4                . = ALIGN (0x4)
+                0x01e08bd4                btstack_code_start = .
+                0x01e08bd4                . = ALIGN (0x4)
+                0x01e08bd4                a2dp_source_media_codec_begin = .
+ *(.a2dp_source_media_codec)
+                0x01e08bd4                a2dp_source_media_codec_end = .
+                0x01e08bd4                a2dp_sink_media_probe_begin = .
+ *(.a2dp_sink_media_probe)
+                0x01e08bd4                a2dp_sink_media_probe_end = .
+                0x01e08bd4                a2dp_sink_media_codec_begin = .
+ *(.a2dp_sink_media_codec)
+                0x01e08bd4                a2dp_sink_media_codec_end = .
+                0x01e08bd4                a2dp_event_handler_begin = .
+ *(.a2dp_event_handler)
+ .a2dp_event_handler
+                0x01e08bd4       0x1c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e08bd4                a2dp_sink_event_handler
+                0x01e08bf0                a2dp_event_handler_end = .
+                0x01e08bf0                sdp_record_item_begin = .
+ *(.sdp_record_item)
+                0x01e08bf0                sdp_record_item_end = .
+                0x01e08bf0                bt_sleep_begin = .
+ *(.bt_sleep)
+ .bt_sleep      0x01e08bf0       0x60 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e08bf0                bt_suspend_user_cmd_loop_resumeuser_cmd_loop_release
+                0x01e08bfc                bt_suspend_a2dp_resumea2dp_release
+                0x01e08c08                bt_suspend_avctp_resumeavctp_release
+                0x01e08c14                bt_suspend_hfp_resumehfp_release
+                0x01e08c20                bt_suspend_hid_resumehid_release
+                0x01e08c2c                bt_suspend_spp_resumespp_release
+                0x01e08c38                bt_suspend_sdp_resumesdp_release
+                0x01e08c44                bt_suspend_iap_resumeiap_release
+                0x01e08c50                bt_sleep_end = .
+ *(.bt_stack_const)
+ .bt_stack_const
+                0x01e08c50       0x88 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.bt_stack_code)
+ .bt_stack_code
+                0x01e08cd8     0x3620 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_db_const)
+ *(.ble_db_code)
+ *(.ble_sm_const)
+ *(.ble_sm_code)
+ .ble_sm_code   0x01e0c2f8       0x3c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_att_const)
+ .ble_att_const
+                0x01e0c334       0x17 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_att_code)
+ *fill*         0x01e0c34b        0x1 
+ .ble_att_code  0x01e0c34c      0x644 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_gatt_const)
+ *(.ble_gatt_code)
+ .ble_gatt_code
+                0x01e0c990      0x81c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e0d1ac                BTSTACK_LE_HOST_MESH_CODE_START = .
+ *(.ble_mesh_code)
+ *(.ble_mesh_tinycrypt_code)
+ *(.ble_mesh_const)
+ *(.ble_mesh_tinycrypt_const)
+                0x00000000                BTSTACK_LE_HOST_MESH_CODE_SIZE = ABSOLUTE ((. - BTSTACK_LE_HOST_MESH_CODE_START))
+                0x01e0d1ac                btstack_code_end = .
+                0x01e0d1ac                . = ALIGN (0x4)
+                0x000045d8                BTSTACK_CODE_TOTAL_SIZE = (btstack_code_end - btstack_code_start)
+                0x01e0d1ac                . = ALIGN (0x4)
+                0x01e0d1ac                . = ALIGN (0x4)
+                0x01e0d1ac                system_text_start = .
+                0x01e0d1ac                _device_node_begin = .
+                0x01e0d1ac                PROVIDE (device_node_begin, .)
+ *(.device)
+                0x01e0d1ac                _device_node_end = .
+                0x01e0d1ac                PROVIDE (device_node_end, .)
+                0x01e0d1ac                config_target_begin = .
+                [!provide]                PROVIDE (config_target_begin, .)
+ *(.config_target)
+ .config_target
+                0x01e0d1ac        0x8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e0d1ac                eq_config_target
+                0x01e0d1b4                config_target_end = .
+                [!provide]                PROVIDE (config_target_end, .)
+                0x01e0d1b4                system_code_begin = .
+ *(.system.*.text)
+ .system.lbuf.text
+                0x01e0d1b4      0x766 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.printf.text
+                0x01e0d91a      0x926 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.cpu.text
+                0x01e0e240       0xd2 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.cbuf.text
+                0x01e0e312        0xe ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.event.text
+                0x01e0e320      0x3f2 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.task.text
+                0x01e0e712       0x8c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.init.text
+                0x01e0e79e      0xdb2 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e0e7a8                boot_info_init
+                0x01e0e7d2                main
+ .system.timer.text
+                0x01e0f550      0x3d4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.fs.text
+                0x01e0f924      0xa48 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.app_core.text
+                0x01e1036c      0x1d2 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.cfg_tool.text
+                0x01e1053e      0x6e2 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.ascii.text
+                0x01e10c20       0x3a ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .system.device.text
+                0x01e10c5a       0xd0 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10d2a                system_code_end = .
+                0x01e10d2c                . = ALIGN (0x4)
+ *fill*         0x01e10d2a        0x2 
+                0x00003b76                system_code_size = (system_code_end - system_code_begin)
+                0x01e10d2c                vfs_ops_begin = .
+ *(.vfs_operations)
+ .vfs_operations
+                0x01e10d2c       0x74 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10d2c                sdfile_vfs_ops
+                0x01e10da0                vfs_ops_end = .
+                0x01e10da0                _lib_version_begin = .
+                [!provide]                PROVIDE (lib_version_begin, .)
+ *(.lib_version)
+ .lib_version   0x01e10da0        0x4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10da0                __version_sdfile
+                0x01e10da4                _lib_version_end = .
+                [!provide]                PROVIDE (lib_version_end, .)
+                0x01e10da4                _initcall_begin = .
+                0x01e10da4                PROVIDE (initcall_begin, .)
+ *(.initcall)
+ .initcall      0x01e10da4        0x4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10da4                __initcall_app_update_init
+                0x01e10da8                _initcall_end = .
+                0x01e10da8                PROVIDE (initcall_end, .)
+                0x01e10da8                _early_initcall_begin = .
+                0x01e10da8                PROVIDE (early_initcall_begin, .)
+ *(.early.initcall)
+ .early.initcall
+                0x01e10da8        0x8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10da8                __initcall_sys_event_init
+                0x01e10dac                __initcall_sdfile_init
+                0x01e10db0                _early_initcall_end = .
+                0x01e10db0                PROVIDE (early_initcall_end, .)
+                0x01e10db0                _late_initcall_begin = .
+                0x01e10db0                PROVIDE (late_initcall_begin, .)
+ *(.late.initcall)
+ .late.initcall
+                0x01e10db0        0x4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10db0                __initcall_sdk_meky_check
+                0x01e10db4                _late_initcall_end = .
+                0x01e10db4                PROVIDE (late_initcall_end, .)
+                0x01e10db4                _platform_initcall_begin = .
+                0x01e10db4                PROVIDE (platform_initcall_begin, .)
+ *(.platform.initcall)
+ .platform.initcall
+                0x01e10db4        0x4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10db4                __initcall_syscfg_tools_init
+                0x01e10db8                _platform_initcall_end = .
+                0x01e10db8                PROVIDE (platform_initcall_end, .)
+                0x01e10db8                _module_initcall_begin = .
+                0x01e10db8                PROVIDE (module_initcall_begin, .)
+ *(.module.initcall)
+                0x01e10db8                _module_initcall_end = .
+                0x01e10db8                PROVIDE (module_initcall_end, .)
+                0x01e10db8                _sys_event_handler_begin = .
+                0x01e10db8                PROVIDE (sys_event_handler_begin, .)
+ *(.sys_event.4.handler)
+ .sys_event.4.handler
+                0x01e10db8        0x8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10db8                __event_handler_tws_key_event_handler
+ *(.sys_event.3.handler)
+ *(.sys_event.2.handler)
+ *(.sys_event.1.handler)
+ *(.sys_event.0.handler)
+ .sys_event.0.handler
+                0x01e10dc0        0x8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10dc0                __event_handler_uart_event_handler
+                0x01e10dc8                _sys_event_handler_end = .
+                0x01e10dc8                PROVIDE (sys_event_handler_end, .)
+                0x01e10dc8                _syscfg_arg_begin = .
+                [!provide]                PROVIDE (syscfg_arg_begin, .)
+ *(.syscfg.arg)
+                0x01e10dc8                _syscfg_arg_end = .
+                [!provide]                PROVIDE (syscfg_arg_end, .)
+                0x01e10dc8                _syscfg_handler_begin = .
+                [!provide]                PROVIDE (syscfg_handler_begin, .)
+ *(.syscfg.handler)
+                0x01e10dc8                _syscfg_handler_end = .
+                [!provide]                PROVIDE (syscfg_handler_end, .)
+                0x01e10dc8                _syscfg_ops_begin = .
+                0x01e10dc8                PROVIDE (syscfg_ops_begin, .)
+ *(.syscfg.2.ops)
+ .syscfg.2.ops  0x01e10dc8       0x1c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10dc8                cfg_btif
+ *(.syscfg.1.ops)
+ .syscfg.1.ops  0x01e10de4       0x1c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10de4                cfg_vm
+ *(.syscfg.0.ops)
+ .syscfg.0.ops  0x01e10e00       0x1c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10e00                cfg_bin
+                0x01e10e1c                _syscfg_ops_end = .
+                0x01e10e1c                PROVIDE (syscfg_ops_end, .)
+                0x01e10e1c                _server_info_begin = .
+                [!provide]                PROVIDE (server_info_begin, .)
+ *(.server_info)
+                0x01e10e1c                _server_info_end = .
+                [!provide]                PROVIDE (server_info_end, .)
+                0x01e10e1c                _bus_device_begin = .
+                [!provide]                PROVIDE (bus_device_begin, .)
+ *(.bus_device)
+                0x01e10e1c                _bus_device_end = .
+                [!provide]                PROVIDE (bus_device_end, .)
+                0x01e10e1c                _sys_power_hal_ops_begin = .
+                [!provide]                PROVIDE (sys_power_hal_ops_begin, .)
+ *(.sys_power_hal_ops)
+                0x01e10e1c                _sys_power_hal_ops_end = .
+                [!provide]                PROVIDE (sys_power_hal_ops_end, .)
+                0x01e10e1c                . = ALIGN (0x4)
+                0x01e10e1c                lp_target_begin = .
+                [!provide]                PROVIDE (lp_target_begin, .)
+ *(.lp_target)
+ .lp_target     0x01e10e1c       0x60 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e10e1c                audio_mc_device_lp_target
+                0x01e10e24                audio_dec_init_lp_target
+                0x01e10e2c                tone_dec_lp_target
+                0x01e10e34                audio_adc_demo
+                0x01e10e3c                uart_lp_target
+                0x01e10e44                key_lp_target
+                0x01e10e4c                ota_lp_target
+                0x01e10e54                app_state_lp_target
+                0x01e10e5c                usb_dev_lp_target
+                0x01e10e64                usr_systimer_lp_target
+                0x01e10e6c                btstack_lowpower_target
+                0x01e10e74                eq_online_lp_target
+                0x01e10e7c                lp_target_end = .
+                [!provide]                PROVIDE (lp_target_end, .)
+                0x01e10e7c                . = ALIGN (0x4)
+                0x01e10e7c                deepsleep_target_begin = .
+                [!provide]                PROVIDE (deepsleep_target_begin, .)
+ *(.deepsleep_target)
+                0x01e10e7c                deepsleep_target_end = .
+                [!provide]                PROVIDE (deepsleep_target_end, .)
+                0x01e10e7c                crypto_begin = .
+ *(.crypto_ecdh_code)
+ *(.crypto_ecdh_const)
+ *(.crypto_bigint_code)
+ *(.crypto_bigint_const)
+ *(.crypto_code)
+ *(.crypto_const)
+ *(.ECDH_sample_code)
+ *(.ECDH_sample_const)
+ *(.uECC_code)
+ *(.uECC_const)
+ *(.hmac_code)
+ *(.hmac_const)
+ *(.hash_sample_code)
+ *(.hash_sample_const)
+ *(.aes_cmac_sample_code)
+ *(.aes_cmac_sample_const)
+                0x01e10e7c                crypto_end = .
+                0x00000000                crypto_size = (. - crypto_begin)
+ *(.mem_code)
+ .mem_code      0x01e10e7c      0x604 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.mem_const)
+ *(.os_port_code)
+ .os_port_code  0x01e11480      0xab2 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.os_port_const)
+ *fill*         0x01e11f32        0x2 
+ .os_port_const
+                0x01e11f34       0x24 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e11f58                __movable_function_start = .
+ *(movable.text.*)
+ *(movable.stub.*)
+ *(movable.region.*)
+                0x01e11f58                __movable_function_end = .
+                0x00000000                __movable_function_size = (__movable_function_end - __movable_function_start)
+                0x01e11f58                system_text_end = .
+                0x00004dac                system_code_total_size = (system_text_end - system_text_start)
+                0x01e11f58                . = ALIGN (0x4)
+                0x01e11f58                lcd_interface_begin = .
+ *(.lcd_if_info)
+                0x01e11f58                lcd_interface_end = .
+                0x01e11f58                ui_style_begin = .
+ *(.ui_style)
+                0x01e11f58                ui_style_end = .
+                0x01e11f58                elm_event_handler_begin_JL = .
+ *(.elm_event_handler_JL)
+                0x01e11f58                elm_event_handler_end_JL = .
+                0x01e11f58                elm_event_handler_begin_UPGRADE = .
+ *(.elm_event_handler_UPGRADE)
+                0x01e11f58                elm_event_handler_end_UPGRADE = .
+                0x01e11f58                elm_event_handler_begin_DIAL = .
+ *(.elm_event_handler_DIAL)
+                0x01e11f58                elm_event_handler_end_DIAL = .
+                0x01e11f58                control_event_handler_begin = .
+ *(.control_event_handler)
+                0x01e11f58                control_event_handler_end = .
+                0x01e11f58                control_ops_begin = .
+ *(.control_ops)
+                0x01e11f58                control_ops_end = .
+                0x01e11f58                battery_notify_begin = .
+ *(.battery_notify)
+                0x01e11f58                battery_notify_end = .
+                0x01e11f58                . = ALIGN (0x4)
+                0x01e11f58                media_text_start = .
+ *(.aec_code)
+ *(.aec_const)
+ *(.der_code)
+ *(.der_const)
+ *(.nlp_code)
+ *(.nlp_const)
+ *(.qmf_code)
+ *(.qmf_const)
+ *(.bt_audioplc_sparse_code)
+ *(.bt_audioplc_code)
+ *(.bt_audioplc_const)
+                0x01e11f58                . = ALIGN (0x4)
+ *(.res_code)
+ *(.res_const)
+                0x01e11f58                . = ALIGN (0x4)
+ *(.ns_code)
+ *(.ns_const)
+ *(.opcore_maskrom)
+                0x01e11f58                . = ALIGN (0x4)
+ *(.pcm_code)
+ *(.pcm_const)
+ *(.g729_code)
+ *(.g729_const)
+ *(.g726_code)
+ *(.g726_const)
+ *(.wtg_dec_code)
+ *(.wtg_dec_const)
+ *(.wtg_dec_sparse_code)
+ *(.wtg_dec_sparse_const)
+ *(.wtgv2_code)
+ *(.wtgv2_const)
+ *(.wtgv2dec_code)
+ *(.wtgv2dec_const)
+ *(.wtgv2dec_str)
+ *(.wtg_decv2_sparse_code)
+ *(.bfilt_code)
+                0x01e11f58                . = ALIGN (0x4)
+ *(.mp3_decstream_const)
+ *(.mp3_decstream_code)
+ *(.mp3_decstream_sparse_code)
+ *(.mp3_decstream_sparse_const)
+ *(.mp3_dec_sparse_code)
+ *(.mp3_dec_sparse_const)
+ *(.mp3_dec_code)
+ *(.mp3_dec_const)
+ *(.mp3_const)
+ *(.mp3_code)
+ *(.msbc_code)
+ *(.msbc_const)
+ *(.mty_code)
+ *(.mty_const)
+ *(.mp3tsy_dec_code)
+ *(.mp3tsy_dec_const)
+ *(.mp3tsy_dec_sparse_code)
+ *(.mp3tsy_dec_sparse_const)
+ *(.sbc_code)
+ *(.sbc_const)
+ *(.sine_code)
+ *(.sine_const)
+ *(.wma_code)
+ *(.wma_const)
+ *(.wma_dec_code)
+ *(.wma_dec_const)
+ *(.wma_dec_sparse_code)
+ *(.wma_dec_sparse_const)
+ *(.wma_decstream_const)
+ *(.wma_decstream_code)
+ *(.wma_decstream_sparse_code)
+ *(.wma_decstream_sparse_const)
+ *(.amr_code)
+ *(.amr_const)
+ *(.midi_code)
+ *(.midi_const)
+ *(.audio_decoder_code)
+ *(.audio_decoder_const)
+ *(.mp3_encode_code)
+ *(.mp3_encode_const)
+ *(.media_device_code)
+ *(.media_device_const)
+ *(.audio_encoder_code)
+ *(.audio_encoder_const)
+ *(.mixer_code)
+ *(.mixer_const)
+ *(.stream_code)
+ *(.stream_const)
+ *(.dec_server_code)
+ *(.dec_server_const)
+ *(.rec_server_code)
+ *(.rec_server_const)
+ *(.auto_mute_code)
+ *(.auto_mute_const)
+ *(.plc_code)
+ *(.plc_const)
+ *(.wireless_sync_code)
+ *(.wireless_sync_const)
+ *(.fft_code)
+ *(.fft_const)
+ *(.mp3_enc_code)
+ *(.mp3_enc_const)
+ *(.mp3_enc_sparse_code)
+ *(.mp3_enc_sparse_const)
+                0x01e11f58                . = ALIGN (0x4)
+ *(.mp2_encode_code)
+ *(.mp2_encode_const)
+ *(.mp2_encode_sparse_code)
+ *(.mp2_encode_sparse_const)
+                0x01e11f58                . = ALIGN (0x4)
+ *(.adpcm_encode_code)
+ *(.adpcm_encode_const)
+ *(.adpcm_encode_sparse_code)
+ *(.adpcm_encode_sparse_const)
+                0x01e11f58                . = ALIGN (0x4)
+ *(.lc3_decoder_code)
+ *(.lc3_decoder_const)
+                0x01e11f58                . = ALIGN (0x4)
+ *(.m4a_dec_sparse_code)
+ *(.m4a_dec_sparse_const)
+ *(.aac_dec_sparse_code)
+ *(.aac_dec_sparse_const)
+ *(.bt_aac_dec_core_const)
+ *(.amr_dec_const)
+ *(.dts_dec_ff_const)
+ *(.dts_dec_sparse_code)
+ *(.dts_dec_sparse_const)
+ *(.res_sparse_code)
+ *(.ns_sparse_code)
+ *(.aec_sparse_code)
+ *(.nlp_sparse_code)
+ *(.der_sparse_code)
+ *(.qmf_sparse_code)
+ *(.sms_const)
+ *(.sms_sparse_code)
+ *(.sms_code)
+ *(.resample_cal_code)
+ *(.resample_cal_sparse_code)
+ *(.resample_cal_const)
+ *(.bt_compressor_sparse_const)
+ *(.bt_compressor_sparse_code)
+ *(.compressor_sparse_code)
+ *(.compressor_sparse_const)
+ *(.bt_limiter_sparse_const)
+ *(.bt_limiter_sparse_code)
+ *(.limiter_sparse_code)
+ *(.limiter_sparse_const)
+ *(.bt_crossOver_sparse_const)
+ *(.bt_crossOver_sparse_code)
+ *(.crossOver_sparse_code)
+ *(.crossOver_sparse_const)
+ *(.iap_code)
+ *(.iap_const)
+ *(.audio_bfilt_code)
+ *(.audio_bfilt_const)
+ *(.audio_buf_sync_code)
+ *(.audio_buf_sync_const)
+ *(.audio_dec_app_code)
+ *(.audio_dec_app_const)
+ *(.audio_dec_app_sync_code)
+ .audio_dec_app_sync_code
+                0x01e11f58        0x2 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.audio_dec_app_sync_const)
+ *(.audio_dec_app_event_callback)
+ *(.audio_dec_app_dec_run)
+ *(.audio_dec_app_normal_run)
+ *(.audio_dec_tone_event_callback)
+ *(.audio_dig_vol_code)
+ *(.audio_dig_vol_const)
+ *(.audio_echo_reverb_code)
+ *(.audio_echo_reverb_const)
+ *(.audio_echo_src_code)
+ *(.audio_echo_src_const)
+ *(.audio_energy_detect_code)
+ *(.audio_energy_detect_const)
+ *(.audio_eq_code)
+ *(.audio_eq_const)
+ *(.audio_drc_code)
+ *(.audio_drc_const)
+ *(.audio_eq_drc_apply_code)
+ *(.audio_eq_drc_apply_const)
+ *(.audio_equalloudness_code)
+ *(.audio_equalloudness_const)
+ *(.audio_howling_code)
+ *(.audio_howling_const)
+ *(.audio_noisegate_code)
+ *(.audio_noisegate_const)
+ *(.audio_output_dac_code)
+ *(.audio_output_dac_const)
+ *(.audio_pemafrow_code)
+ *(.audio_pemafrow_const)
+ *(.audio_pitch_code)
+ *(.audio_pitch_const)
+ *(.audio_pitchspeed_code)
+ *(.audio_pitchspeed_const)
+ *(.audio_surround_code)
+ *(.audio_surround_const)
+ *(.audio_vbass_code)
+ *(.audio_vbass_const)
+ *(.audio_vocal_remove_code)
+ *(.audio_vocal_remove_const)
+ *(.audio_vocal_tract_synthesis_code)
+ *(.audio_vocal_tract_synthesis_const)
+ *(.eq_config_code)
+ *(.eq_config_const)
+ *(.eq_config_protocol_code)
+ .eq_config_protocol_code
+                0x01e11f5a        0x6 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.eq_config_protocol_const)
+ *(.spectrum_eq_code)
+ *(.spectrum_eq_const)
+ *(.spectrum_fft_code)
+ *(.spectrum_fft_const)
+ *(.audio_localtws_code)
+ *(.audio_localtws_const)
+ *(.audio_dec_localtws_code)
+ *(.audio_dec_localtws_const)
+ *(.audio_dec_a2dp_code)
+ *(.audio_dec_a2dp_const)
+ *(.audio_dec_esco_code)
+ *(.audio_dec_esco_const)
+ *(.audio_dec_file_code)
+ *(.audio_dec_file_const)
+ *(.audio_dec_pcm_code)
+ *(.audio_dec_pcm_const)
+ *(.audio_resample_code)
+ *(.audio_resample_const)
+ *(.audio_splicing_code)
+ *(.audio_splicing_const)
+ *(.channel_switch_code)
+ *(.channel_switch_const)
+ *(.sw_drc_code)
+ *(.sw_drc_const)
+ *(.aptx_decoder_code)
+ *(.aptx_decoder_const)
+ *(.ldac_decoder_code)
+ *(.ldac_decoder_const)
+ *(.speex_encoder_code)
+ *(.speex_encoder_const)
+ *(.sbc_encoder_code)
+ *(.sbc_encoder_const)
+ *(.opus_encoder_code)
+ *(.opus_encoder_const)
+ *(.prevent_task_fill_code)
+ *(.prevent_task_fill_const)
+ *(.audio_cfifo_code)
+ *(.audio_cfifo_const)
+ *(.audio_track_code)
+ *(.audio_track_const)
+ *(.audio_adc_code)
+ *(.audio_adc_const)
+ *(.audio_dac_code)
+ *(.audio_dac_const)
+ *(.audio_linein_code)
+ *(.audio_linein_const)
+ *(.audio_link_code)
+ *(.audio_link_const)
+ *(.audio_sample_sync_code)
+ *(.audio_sample_sync_const)
+ *(.audio_wireless_sync_code)
+ *(.audio_wireless_sync_const)
+ *(.audio_spdif_code)
+ *(.audio_spdif_const)
+ *(.audio_src_code)
+ *(.audio_src_const)
+ *(.audio_src_base_code)
+ *(.audio_src_base_const)
+ *(.effectrs_sync_code)
+ *(.effectrs_sync_const)
+ *(.eq_design_code)
+ *(.eq_design_const)
+ *(.hw_eq_code)
+ *(.hw_eq_const)
+ *(.iic_code)
+ *(.iic_const)
+ *(.mic_cap_code)
+ .mic_cap_code  0x01e11f60       0x68 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.mic_cap_const)
+ *(.sbc_hwaccel_code)
+ *(.sbc_hwaccel_const)
+                0x01e11fc8                . = ALIGN (0x4)
+                0x01e11fc8                _audio_decoder_begin = .
+                0x01e11fc8                PROVIDE (audio_decoder_begin, .)
+ *(.audio_decoder)
+                0x01e11fc8                _audio_decoder_end = .
+                0x01e11fc8                PROVIDE (audio_decoder_end, .)
+                0x01e11fc8                _audio_encoder_begin = .
+                0x01e11fc8                PROVIDE (audio_encoder_begin, .)
+ *(.audio_encoder)
+                0x01e11fc8                _audio_encoder_end = .
+                0x01e11fc8                PROVIDE (audio_encoder_end, .)
+                0x01e11fc8                _audio_package_begin = .
+                [!provide]                PROVIDE (audio_package_begin, .)
+ *(.audio_package)
+                0x01e11fc8                _audio_package_end = .
+                [!provide]                PROVIDE (audio_package_end, .)
+                0x01e11fc8                _audio_dev_begin = .
+                [!provide]                PROVIDE (audio_dev_begin, .)
+ *(.audio_device)
+                0x01e11fc8                _audio_dev_end = .
+                [!provide]                PROVIDE (audio_dev_end, .)
+                0x01e11fc8                _audio_hwaccel_begin = .
+                [!provide]                PROVIDE (audio_hwaccel_begin, .)
+ *(.audio_hwaccel)
+                0x01e11fc8                _audio_hwaccel_end = .
+                [!provide]                PROVIDE (audio_hwaccel_end, .)
+                0x01e11fc8                . = ALIGN (0x4)
+                0x01e11fc8                media_code_begin = .
+ *(.media.*.text)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.crossOver_code)
+ *(.crossOver_const)
+ *(.bt_crossOver_const)
+ *(.bt_crossOver_code)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.compressor_code)
+ *(.compressor_const)
+ *(.bt_compressor_const)
+ *(.bt_compressor_code)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.limiter_code)
+ *(.limiter_const)
+ *(.bt_limiter_const)
+ *(.bt_limiter_code)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.lib_pitchshift_code)
+ *(.lib_pitchshift_const)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.sur_cal_const)
+ *(.sur_cal_code)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.reverb_cal_sparse_code)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.dvol_ram_code)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.reverb_cal_const)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.reverb_cal_code)
+                0x01e11fc8                . = ALIGN (0x4)
+ *(.stream_code_nor_run)
+ *(.mixer_code_nor_run)
+ *(.stream_code_copy_run)
+ *(.mixer_code_out_run)
+ *(.audio_codec_code)
+ *(.audio_codec_code_read_file)
+ *(.audio_src_code_nor_run)
+ *(.src_base_code_nor_run)
+ *(.audio_dac_code_nor_run)
+ *(.audio_cfifo_code_nor_run)
+ *(.audio_codec_code_frame_file)
+ *(.buf_sync_code_nor_run)
+ *(.resample_fastcal_const)
+ *(.resample_fastcal_code)
+ *(.resample_fastcal_sparse_code)
+                0x01e11fc8                . = ALIGN (0x4)
+                0x01e11fc8                media_code_end = .
+                0x01e11fc8                . = ALIGN (0x4)
+                0x00000000                media_code_size = (media_code_end - media_code_begin)
+                0x01e11fc8                . = ALIGN (0x4)
+                0x01e11fc8                media_text_end = .
+                0x00000070                media_code_total_size = (media_text_end - media_text_start)
+                0x01e11fc8                . = ALIGN (0x4)
+                0x01e11fc8                __VERSION_BEGIN = .
+ *(.sys.version)
+ .sys.version   0x01e11fc8       0x20 ../../../../include_lib/liba/br23/btctrler.a(version.z.o)
+                0x01e11fc8                lib_btctler_version
+ .sys.version   0x01e11fe8       0x1e ../../../../include_lib/liba/br23/update.a(version.z.o)
+                0x01e11fe8                lib_update_version
+                0x01e12006                __VERSION_END = .
+ *(.noop_version)
+                0x01e12008                . = ALIGN (0x4)
+ *fill*         0x01e12006        0x2 
+                0x01e12008                update_target_begin = .
+                [!provide]                PROVIDE (update_target_begin, .)
+ *(.update_target)
+ .update_target
+                0x01e12008       0x28 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e12008                audio_update_target
+                0x01e12010                iic_update_target
+                0x01e12018                spi_update_target
+                0x01e12020                bredr_update_target
+                0x01e12028                ble_update_target
+                0x01e12030                update_target_end = .
+                [!provide]                PROVIDE (update_target_end, .)
+                0x01e12030                . = ALIGN (0x4)
+ *(.text*)
+ .text          0x01e12030     0x7ea8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e121e2                app_load_common_code
+                0x01e13334                update_result_get
+                0x01e15a0e                __errno
+                0x01e15a16                lib_btstack_version
+                0x01e15a1a                lib_media_version
+                0x01e15f1c                exception_analyze
+ .text          0x01e19ed8       0x14 C:\JL\pi32\pi32v2-lib\r3\libc.a(lib_a-strchr.o)
+                0x01e19ed8                strchr
+ .text          0x01e19eec      0x314 C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(adddf3.o)
+                0x01e19f2c                __adddf3
+ .text          0x01e1a200       0x54 C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(fixdfsi.o)
+                0x01e1a200                __fixdfsi
+ .text          0x01e1a254       0x4c C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(floatsidf.o)
+                0x01e1a254                __floatsidf
+ .text          0x01e1a2a0      0x2fa C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(muldf3.o)
+                0x01e1a2d6                __muldf3
+ .text          0x01e1a59a        0x6 C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(subdf3.o)
+                0x01e1a59a                __subdf3
+ .text          0x01e1a5a0       0x3c C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(fixunsdfsi.o)
+                0x01e1a5a0                __fixunsdfsi
+ .text          0x01e1a5dc       0x34 C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(floatunsidf.o)
+                0x01e1a5dc                __floatunsidf
+ .text          0x01e1a610       0x10 C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(udivdi3.o)
+                0x01e1a610                __udivdi3
+ .text          0x01e1a620      0x226 C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a(udivmoddi4.o)
+                0x01e1a620                __udivmoddi4
+ *(.LOG_TAG_CONST*)
+ *(.rodata*)
+ .rodata.str1.1
+                0x01e1a846      0x8af ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                                0x8bf (size before relaxing)
+ *fill*         0x01e1b0f5        0xb 
+ .rodata.str1.16
+                0x01e1b100      0x330 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                                0x32a (size before relaxing)
+ .rodata        0x01e1b430     0x7cb8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .rodata.cst8   0x01e230e8        0x8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e230f0                . = ALIGN (0x4)
+                0x01e230f0                text_code_end = .
+                0x01e230f0                update_code_start = .
+ *(.bt_updata_ram_code)
+ .bt_updata_ram_code
+                0x01e230f0      0x178 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.update_const)
+ .update_const  0x01e23268      0x175 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.update_code)
+ *fill*         0x01e233dd        0x1 
+ .update_code   0x01e233de     0x1406 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e247e4                update_code_end = .
+                0x01e247e4                driver_code_start = .
+                0x01e247e4                . = ALIGN (0x4)
+                0x01e247e4                _SPI_CODE_START = .
+ *(.spi_code)
+                0x01e247e4                . = ALIGN (0x4)
+                0x01e247e4                _SPI_CODE_END = .
+                0x01e247e4                clock_critical_handler_begin = .
+ *(.clock_critical_txt)
+ .clock_critical_txt
+                0x01e247e4       0x28 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x01e247e4                clock_chargestore
+                0x01e247ec                clock_user_uart
+                0x01e247f4                clock_uart
+                0x01e247fc                clock_lrc
+                0x01e24804                clock_port
+                0x01e2480c                clock_critical_handler_end = .
+                0x01e2480c                CLOCK_CODE_START = .
+ *(.clock_code)
+ .clock_code    0x01e2480c      0x854 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.clock_const)
+ .clock_const   0x01e25060        0x4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00000858                CLOCK_CODE_SIZE = ABSOLUTE ((. - CLOCK_CODE_START))
+ *(.debug_code)
+ *(.debug_const)
+ *(.power_code)
+ *(.power_const)
+ *(.uart_code)
+ .uart_code     0x01e25064      0xb8e ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.uart_const)
+                0x01e25bf2                driver_code_end = .
+                0x01e25bf4                . = ALIGN (0x4)
+ *fill*         0x01e25bf2        0x2 
+                0x00000000                . = ORIGIN (ram0)
+                0x00000000                _data_code_begin = .
+                0x00000000                bank_code_run_addr = .
+                0x00000000                common_code_run_addr = .
+
+.data           0x00000000     0x3d28
+ *(.data_magic)
+ .data_magic    0x00000000       0x40 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00000000                data_magic
+                0x00000040                . = ALIGN (0x4)
+ *(.flushinv_icache)
+ *(.volatile_ram_code)
+ .volatile_ram_code
+                0x00000040      0xd4a ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x0000042a                exit_continue_mode
+                0x00000474                enter_continue_mode
+                0x00000488                read_flash_id
+                0x0000052e                sfc_drop_cache
+                0x000005a4                __udelay
+                0x00000618                norflash_erase
+                0x0000069e                flushinv_dcache_api
+                0x00000788                spi_cache_way_switch
+                0x0000081a                switch_to_hrc
+                0x000008fc                spi_for_maskrom_init
+                0x00000b66                hw_mmu_disable
+                0x00000cec                bredr_link_clk_offset
+                0x00000cfe                lc_local_slot_bitoff
+ .volatile_ram_code
+                0x00000d8a      0x158 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+                0x00000d8a                __BT_UPDATA_JUMP
+                0x00000e0a                __JUMP_TO_MASKROM
+                0x00000e50                __DEV_UPDATA_JUMP
+                0x00000ed0                exception_irq_handler
+ *(.os_critical_code)
+ .os_critical_code
+                0x00000ee2      0x6b8 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00000f18                jiffies_half_msec
+                0x00000f70                jiffies_msec
+                0x00000f78                vmalloc_
+                0x000010ee                vfree_
+                0x0000121c                vcopy_
+                0x00001268                vfree_v2
+                0x00001344                vmalloc_v2
+ *(.chargebox_code)
+ *(.os_code)
+ .os_code       0x0000159a     0x19b6 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.os_const)
+ *(.ui_ram)
+ *(.fat_data_code)
+                0x00002f50                . = ALIGN (0x4)
+                0x00002f50                media_data_code_start = .
+                0x00002f50                . = ALIGN (0x4)
+ *(.sbc_eng_code)
+                0x00002f50                . = ALIGN (0x4)
+                0x00002f50                media_data_code_end = .
+                0x00002f50                . = ALIGN (0x4)
+                0x00002f50                _data_code_end = .
+                0x00002f50                _cpu_store_begin = .
+                0x00002f50                . = ALIGN (0x4)
+ *(.data*)
+ .data          0x00002f50       0xdc ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.cvsd_data)
+                0x0000302c                . = ALIGN (0x4)
+                0x0000302c                dec_board_param_mem_begin = .
+ *(.dec_board_param_mem)
+                0x0000302c                dec_board_param_mem_end = .
+                0x0000302c                . = ALIGN (0x4)
+ *(.sbc_eng_code)
+                0x0000302c                . = ALIGN (0x4)
+                0x00003040                . = ALIGN (0x20)
+ *fill*         0x0000302c       0x14 
+                0x00003040                btstack_data_start = .
+ *(.bt_stack_data)
+ .bt_stack_data
+                0x00003040       0x2e ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_db_data)
+ *(.ble_sm_data)
+ *(.ble_att_data)
+ *(.ble_gatt_data)
+                0x0000306e                BTSTACK_LE_HOST_MESH_DATA_START = .
+                0x00003070                . = ((. + 0x3) & 0xfffffffc)
+ *fill*         0x0000306e        0x2 
+                0x00003070                _net_buf_pool_list = .
+ *(._net_buf_pool.static.*)
+ *(.ble_mesh_data)
+ *(.ble_mesh_tinycrypt_data)
+                0x00000002                BTSTACK_LE_HOST_MESH_DATA_SIZE = ABSOLUTE ((. - BTSTACK_LE_HOST_MESH_DATA_START))
+                0x00003070                btstack_data_end = .
+                0x00003070                . = ALIGN (0x4)
+                0x00003070                btctler_data_start = .
+                0x00003070                BTCTLER_CONTROLLER_DATA_START = .
+ *(.bt_rf_data)
+ .bt_rf_data    0x00003070      0x404 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.vendor_manager_data)
+ *(.device_manager_data)
+ *(.hci_controller_data)
+ .hci_controller_data
+                0x00003474       0xbe ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.hci_interface_data)
+                0x000004c2                BTCTLER_CONTROLLER_DATA_SIZE = ABSOLUTE ((. - BTCTLER_CONTROLLER_DATA_START))
+                0x00003532                BTCTLER_LE_CONTROLLER_DATA_START = .
+ *(.ble_ll_data)
+ *fill*         0x00003532        0x2 
+ .ble_ll_data   0x00003534        0xc ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_hci_data)
+ .ble_hci_data  0x00003540       0xad ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.classic_hci_data)
+ *(.ble_rf_data)
+ *fill*         0x000035ed        0x3 
+ .ble_rf_data   0x000035f0       0x10 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x000000ce                BTCTLER_LE_CONTROLLER_DATA_SIZE = ABSOLUTE ((. - BTCTLER_LE_CONTROLLER_DATA_START))
+                0x00003600                BTCTLER_CL_DATA_START = .
+ *(.classic_lmp_data)
+ .classic_lmp_data
+                0x00003600        0xc ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.classic_lmp_auth_data)
+ *(.classic_lmp_bigint_data)
+ *(.classic_lmp_crypt_data)
+ *(.classic_lmp_ecdh_data)
+ *(.classic_lmp_linkbulk_data)
+ *(.classic_lmp_hmac_data)
+ *(.classic_rf_data)
+ *(.classic_bb_data)
+                0x0000000c                BTCTLER_CL_DATA_SIZE = ABSOLUTE ((. - BTCTLER_CL_DATA_START))
+                0x0000360c                btctler_data_end = .
+                0x0000360c                . = ALIGN (0x4)
+                0x0000360c                . = ALIGN (0x4)
+                0x0000360c                system_data_start = .
+                0x0000360c                _video_subdev_begin = .
+                [!provide]                PROVIDE (video_subdev_begin, .)
+ *(.video_subdev.0)
+ *(.video_subdev.1)
+ *(.video_subdev.2)
+ *(.video_subdev.3)
+ *(.video_subdev.4)
+ *(.video_subdev.5)
+                0x0000360c                _video_subdev_end = .
+                [!provide]                PROVIDE (video_subdev_end, .)
+                0x0000360c                _audio_subdev_begin = .
+                [!provide]                PROVIDE (audio_subdev_begin, .)
+ *(.audio_subdev.0)
+ *(.audio_subdev.1)
+ *(.audio_subdev.2)
+ *(.audio_subdev.3)
+                0x0000360c                _audio_subdev_end = .
+                [!provide]                PROVIDE (audio_subdev_end, .)
+                0x0000360c                _iic_device_begin = .
+                [!provide]                PROVIDE (iic_device_begin, .)
+ *(.iic)
+                0x0000360c                _iic_device_end = .
+                [!provide]                PROVIDE (iic_device_end, .)
+                0x0000360c                _avin_spi_device_begin = .
+                [!provide]                PROVIDE (avin_spi_device_begin, .)
+ *(.sw_spi)
+                0x0000360c                _avin_spi_device_end = .
+                [!provide]                PROVIDE (avin_spi_device_end, .)
+                0x0000360c                _video_dev_begin = .
+                [!provide]                PROVIDE (video_dev_begin, .)
+ *(.video_device)
+                0x0000360c                _video_dev_end = .
+                [!provide]                PROVIDE (video_dev_end, .)
+                0x0000360c                _key_driver_ops_begin = .
+                [!provide]                PROVIDE (key_driver_ops_begin, .)
+ *(.key_driver_ops)
+                0x0000360c                _key_driver_ops_end = .
+                [!provide]                PROVIDE (key_driver_ops_end, .)
+                0x0000360c                _touch_driver_begin = .
+                [!provide]                PROVIDE (touch_driver_begin, .)
+ *(.touch_driver)
+                0x0000360c                _touch_driver_end = .
+                [!provide]                PROVIDE (touch_driver_end, .)
+                0x0000360c                _static_hi_timer_begin = .
+                [!provide]                PROVIDE (static_hi_timer_begin, .)
+ *(.hi_timer)
+                0x0000360c                _static_hi_timer_end = .
+                [!provide]                PROVIDE (static_hi_timer_end, .)
+                0x0000360c                _sys_cpu_timer_begin = .
+                0x0000360c                PROVIDE (sys_cpu_timer_begin, .)
+ *(.sys_cpu_timer)
+                0x0000360c                _sys_cpu_timer_end = .
+                0x0000360c                PROVIDE (sys_cpu_timer_end, .)
+                0x0000360c                _sys_config_begin = .
+                [!provide]                PROVIDE (sys_config_begin, .)
+ *(.sys_cfg)
+                0x0000360c                _sys_config_end = .
+                [!provide]                PROVIDE (sys_config_end, .)
+                0x0000360c                _sys_fat_begin = .
+                [!provide]                PROVIDE (sys_fat_begin, .)
+ *(.fs_fat)
+                0x0000360c                _sys_fat_end = .
+                [!provide]                PROVIDE (sys_fat_end, .)
+                0x0000360c                _app_begin = .
+                0x0000360c                PROVIDE (app_begin, .)
+ *(.app)
+ .app           0x0000360c       0x40 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x0000364c                _app_end = .
+                0x0000364c                PROVIDE (app_end, .)
+                0x0000364c                _os_begin = .
+                [!provide]                PROVIDE (os_begin, .)
+ *(.os_str)
+ .os_str        0x0000364c      0x299 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.os_data)
+ *fill*         0x000038e5        0x3 
+ .os_data       0x000038e8       0x38 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00003920                _os_end = .
+                [!provide]                PROVIDE (os_end, .)
+ *(.crypto_ecdh_data)
+ *(.crypto_data)
+ *(.mem_data)
+ .mem_data      0x00003920       0x10 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.os_port_data)
+ *(.uECC_data)
+ *(.ECDH_sample_data)
+                0x00003930                __movable_slot_start = .
+ *(movable.slot.*)
+                0x00003930                __movable_slot_end = .
+                0x00003930                system_data_end = .
+                0x00003930                . = ALIGN (0x4)
+                0x00003930                media_data_start = .
+                0x00003930                . = ALIGN (0x4)
+                0x00003930                EQ_COEFF_BASE = .
+                0x00003c08                . = (EQ_COEFF_BASE + ((0x4 * EQ_SECTION_NUM) * 0xe))
+ *fill*         0x00003930      0x2d8 
+                0x00003c08                . = ALIGN (0x4)
+ *(.aec_data)
+                0x00003c08                . = ALIGN (0x4)
+ *(.res_data)
+                0x00003c08                . = ALIGN (0x4)
+ *(.ns_data)
+                0x00003c08                . = ALIGN (0x4)
+ *(.der_data)
+                0x00003c08                . = ALIGN (0x4)
+ *(.nlp_data)
+                0x00003c08                . = ALIGN (0x4)
+ *(.qmf_data)
+                0x00003c08                . = ALIGN (0x4)
+ *(.fft_data)
+                0x00003c08                . = ALIGN (0x4)
+ *(.bt_audioplc_data)
+ *(.sms_data)
+ *(.pcm_data)
+ *(.g729_data)
+ *(.g726_data)
+ *(.wtg_dec_data)
+ *(.wtgv2_data)
+ *(.wtgv2dec_data)
+ *(.mp3_data)
+ *(.mp3_dec_data)
+ *(.msbc_data)
+ *(.mty_data)
+ *(.mp3tsy_dec_data)
+ *(.sbc_data)
+ *(.sine_data)
+ *(.wma_data)
+ *(.wma_dec_data)
+ *(.amr_data)
+ *(.midi_data)
+ *(.audio_decoder_data)
+ *(.mp3_encode_data)
+ *(.media_device_data)
+ *(.audio_encoder_data)
+ *(.mixer_data)
+ *(.stream_data)
+ *(.dec_server_data)
+ *(.rec_server_data)
+ *(.auto_mute_data)
+ *(.plc_data)
+ *(.wireless_sync_data)
+ *(.resample_cal_data)
+ *(.bt_compressor_data)
+ *(.bt_crossOver_data)
+ *(.bt_limiter_data)
+ *(.bt_compressor_sparse_data)
+ *(.bt_limiter_sparse_data)
+ *(.bt_crossOver_sparse_data)
+ *(.iap_data)
+ *(.audio_bfilt_data)
+ *(.audio_buf_sync_data)
+ *(.audio_dec_app_data)
+ *(.audio_dec_app_sync_data)
+ *(.audio_dig_vol_data)
+ *(.audio_echo_reverb_data)
+ *(.audio_echo_src_data)
+ *(.audio_energy_detect_data)
+ *(.audio_eq_data)
+ *(.audio_drc_data)
+ *(.audio_eq_drc_apply_data)
+ *(.audio_equalloudness_data)
+ *(.audio_howling_data)
+ *(.audio_noisegate_data)
+ *(.audio_output_dac_data)
+ *(.audio_pemafrow_data)
+ *(.audio_pitch_data)
+ *(.audio_pitchspeed_data)
+ *(.audio_surround_data)
+ *(.audio_vbass_data)
+ *(.audio_vocal_remove_data)
+ *(.audio_vocal_tract_synthesis_data)
+ *(.eq_config_data)
+ *(.eq_config_protocol_data)
+ *(.spectrum_eq_data)
+ *(.spectrum_fft_data)
+ *(.audio_localtws_data)
+ *(.audio_dec_localtws_data)
+ *(.audio_dec_a2dp_data)
+ *(.audio_dec_esco_data)
+ *(.audio_dec_file_data)
+ *(.audio_dec_pcm_data)
+ *(.audio_resample_data)
+ *(.audio_splicing_data)
+ *(.channel_switch_data)
+ *(.sw_drc_data)
+ *(.aptx_decoder_data)
+ *(.ldac_decoder_data)
+ *(.speex_encoder_data)
+ *(.sbc_encoder_data)
+ *(.opus_encoder_data)
+ *(.prevent_task_fill_data)
+ *(.audio_cfifo_data)
+ *(.audio_track_data)
+ *(.audio_adc_data)
+ *(.audio_dac_data)
+ *(.audio_linein_data)
+ *(.audio_link_data)
+ *(.audio_sample_sync_data)
+ *(.audio_wireless_sync_data)
+ *(.audio_spdif_data)
+ *(.audio_src_data)
+ *(.audio_src_base_data)
+ .audio_src_base_data
+                0x00003c08       0x64 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.effectrs_sync_data)
+ *(.eq_design_data)
+ *(.hw_eq_data)
+ *(.iic_data)
+ *(.mic_cap_data)
+ .mic_cap_data  0x00003c6c        0x1 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.sbc_hwaccel_data)
+ *(.resample_fastcal_data)
+ *(.aac_data)
+ *(.alac_data)
+                0x00003c70                . = ALIGN (0x4)
+ *fill*         0x00003c6d        0x3 
+ *(.dec2tws_mem)
+                0x00003c70                . = ALIGN (0x4)
+ *(.lc3_decoder_data)
+                0x00003c70                . = ALIGN (0x4)
+ *(.midi_mem)
+ *(.midi_ctrl_mem)
+                0x00003c70                media_data_end = .
+                0x00003c70                . = ALIGN (0x4)
+                0x00003c70                update_data_start = .
+                0x00003c70                update_data_end = .
+                0x00003c70                driver_data_start = .
+                0x00003c70                CLOCK_DATA_START = .
+ *(.clock_data)
+ .clock_data    0x00003c70       0xa0 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x000000a0                CLOCK_DATA_SIZE = ABSOLUTE ((. - CLOCK_DATA_START))
+ *(.debug_data)
+ *(.power_data)
+ *(.uart_data)
+ .uart_data     0x00003d10       0x18 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00003d28                driver_data_end = .
+
+.irq_stack      0x00003d40      0x848
+ *(.stack_magic)
+ .stack_magic   0x00003d40       0x10 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00003d40                stack_magic
+                0x00003d50                _cpu0_sstack_begin = .
+                [!provide]                PROVIDE (cpu0_sstack_begin, .)
+ *(.stack)
+ .stack         0x00003d50      0x800 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+                0x00004550                _stack
+                0x00004550                _cpu0_sstack_end = .
+                [!provide]                PROVIDE (cpu0_sstack_end, .)
+                0x00004550                _stack_end = .
+ *(.stack_magic0)
+ .stack_magic0  0x00004550       0x10 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00004550                stack_magic0
+                0x00004560                . = ALIGN (0x4)
+ *(.boot_info)
+ .boot_info     0x00004560       0x28 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+
+.bss            0x000045a0     0x418c
+ *(.usb_h_dma)
+ *(.usb_ep0)
+ *(.dec_mix_buff)
+ *(.sd0_var)
+ *(.sd1_var)
+ *(.dac_buff)
+ *(.bss)
+ .bss           0x000045a0     0x2058 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(COMMON)
+ *(.cvsd_bss)
+ *(.volatile_ram)
+                0x000065f8                btctler_bss_start = .
+                0x000065f8                BTCTLER_CONTROLLER_BSS_START = .
+ *(.bd_base)
+ .bd_base       0x000065f8     0x1064 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x000065f8                bd_base
+ *(.bredr_rxtx_bulk)
+                0x0000765c                acl_tx_pool = .
+ *(.bredr_tx_bulk)
+                0x0000765c                acl_tx_pool_end = (acl_tx_pool + 0x0)
+                0x0000765c                . = acl_tx_pool_end
+                0x0000765c                acl_rx_pool = .
+ *(.bredr_rx_bulk)
+                0x0000765c                acl_rx_pool_end = (acl_rx_pool + 0x0)
+                0x0000765c                . = acl_rx_pool_end
+                0x0000765c                tws_bulk_pool = .
+                0x0000765c                tws_bulk_pool_end = tws_bulk_pool
+                0x0000765c                . = tws_bulk_pool_end
+ *(.bt_rf_bss)
+ .bt_rf_bss     0x0000765c       0x1d ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.hci_controller_bss)
+ *fill*         0x00007679        0x3 
+ .hci_controller_bss
+                0x0000767c       0x38 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.hci_interface_bss)
+ *(.device_manager_bss)
+ *(.vendor_manager_bss)
+                0x000010bc                BTCTLER_CONTROLLER_BSS_SIZE = ABSOLUTE ((. - BTCTLER_CONTROLLER_BSS_START))
+                0x000076b4                BTCTLER_LE_CONTROLLER_BSS_START = .
+ *(.ble_hci_bss)
+ .ble_hci_bss   0x000076b4       0x80 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_ll_bss)
+ .ble_ll_bss    0x00007734      0x283 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_rf_bss)
+ *fill*         0x000079b7        0x1 
+ .ble_rf_bss    0x000079b8        0x4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00000308                BTCTLER_LE_CONTROLLER_BSS_SIZE = ABSOLUTE ((. - BTCTLER_LE_CONTROLLER_BSS_START))
+                0x000079bc                BTCTLER_CL_BSS_START = .
+ *(.classic_rf_bss)
+ .classic_rf_bss
+                0x000079bc       0x68 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.classic_lmp_bss)
+ .classic_lmp_bss
+                0x00007a24       0xe4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.classic_lmp_auth_bss)
+ *(.classic_lmp_bigint_bss)
+ *(.classic_lmp_crypt_bss)
+ *(.classic_lmp_ecdh_bss)
+ *(.classic_lmp_linkbulk_bss)
+ *(.classic_lmp_hmac_bss)
+ *(.classic_bb_bss)
+ *(.classic_hci_bss)
+                0x0000014c                BTCTLER_CL_BSS_SIZE = ABSOLUTE ((. - BTCTLER_CL_BSS_START))
+                0x00007b08                btctler_bss_end = .
+                0x00007b08                btstack_bss_start = .
+ *(.bt_stack_bss)
+ .bt_stack_bss  0x00007b08      0x48c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_db_bss)
+ *(.ble_sm_bss)
+ *(.ble_att_bss)
+ .ble_att_bss   0x00007f94       0x3c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.ble_gatt_bss)
+ .ble_gatt_bss  0x00007fd0       0x18 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.btstack_pool)
+                0x00007fe8                BTSTACK_LE_HOST_MESH_BSS_START = .
+ *(.ble_mesh_bss)
+ *(.ble_mesh_tinycrypt_bss)
+                0x00000000                BTSTACK_LE_HOST_MESH_BSS_SIZE = ABSOLUTE ((. - BTSTACK_LE_HOST_MESH_BSS_START))
+                0x00007fe8                btstack_bss_end = .
+                0x00007fe8                system_bss_start = .
+                0x00007fe8                . = ALIGN (0x4)
+ *(.os_bss)
+ .os_bss        0x00007fe8      0x12c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.mem_heap)
+ *(.memp_memory_x)
+ *(.mem_bss)
+ .mem_bss       0x00008114      0x1bc ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.os_port_bss)
+ .os_port_bss   0x000082d0       0x15 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x000082d0                uxCriticalNesting
+ *(.uECC_bss)
+ *(.ECDH_sample_bss)
+                0x000082e5                system_bss_end = .
+                0x000082e5                media_bss_start = .
+                0x000082e8                . = ALIGN (0x4)
+ *fill*         0x000082e5        0x3 
+ *(.aec_bss)
+ *(.res_bss)
+ *(.ns_bss)
+ *(.der_bss)
+ *(.nlp_bss)
+ *(.qmf_bss)
+ *(.bt_audioplc_bss)
+ *(.fft_bss)
+ *(.sms_bss)
+ *(.pcm_bss)
+ *(.g729_bss)
+ *(.g726_bss)
+ *(.wtg_dec_bss)
+ *(.wtgv2_bss)
+ *(.wtgv2dec_bss)
+ *(.mp3_bss)
+ *(.mp3_dec_bss)
+ *(.msbc_bss)
+ *(.mty_bss)
+ *(.mp3tsy_dec_bss)
+ *(.sbc_bss)
+ *(.sine_bss)
+ *(.wma_bss)
+ *(.wma_dec_bss)
+ *(.amr_bss)
+ *(.midi_bss)
+ *(.audio_decoder_bss)
+ *(.mp3_encode_bss)
+ *(.media_device_bss)
+ *(.audio_encoder_bss)
+ *(.mixer_bss)
+ *(.stream_bss)
+ *(.dec_server_bss)
+ *(.rec_server_bss)
+ *(.auto_mute_bss)
+ *(.plc_bss)
+ *(.wireless_sync_bss)
+ *(.audio_buf)
+ *(.resample_cal_bss)
+ *(.bt_crossOver_bss)
+ *(.bt_compressor_bss)
+ *(.bt_limiter_bss)
+ *(.bt_limiter_sparse_bss)
+ *(.bt_crossOver_sparse_bss)
+ *(.bt_compressor_sparse_bss)
+ *(.iap_bss)
+ *(.audio_bfilt_bss)
+ *(.audio_buf_sync_bss)
+ *(.audio_dec_app_bss)
+ *(.audio_dec_app_sync_bss)
+ *(.audio_dig_vol_bss)
+ *(.audio_echo_reverb_bss)
+ *(.audio_echo_src_bss)
+ *(.audio_energy_detect_bss)
+ *(.audio_eq_bss)
+ *(.audio_drc_bss)
+ *(.audio_eq_drc_apply_bss)
+ *(.audio_equalloudness_bss)
+ *(.audio_howling_bss)
+ *(.audio_noisegate_bss)
+ *(.audio_output_dac_bss)
+ *(.audio_pemafrow_bss)
+ *(.audio_pitch_bss)
+ *(.audio_pitchspeed_bss)
+ *(.audio_surround_bss)
+ *(.audio_vbass_bss)
+ *(.audio_vocal_remove_bss)
+ *(.audio_vocal_tract_synthesis_bss)
+ *(.eq_config_bss)
+ *(.eq_config_protocol_bss)
+ *(.spectrum_eq_bss)
+ *(.spectrum_fft_bss)
+ *(.audio_localtws_bss)
+ *(.audio_dec_localtws_bss)
+ *(.audio_dec_a2dp_bss)
+ *(.audio_dec_esco_bss)
+ *(.audio_dec_file_bss)
+ *(.audio_dec_pcm_bss)
+ *(.audio_resample_bss)
+ *(.audio_splicing_bss)
+ *(.channel_switch_bss)
+ *(.sw_drc_bss)
+ *(.aptx_decoder_bss)
+ *(.ldac_decoder_bss)
+ *(.speex_encoder_bss)
+ *(.sbc_encoder_bss)
+ *(.opus_encoder_bss)
+ *(.prevent_task_fill_bss)
+ *(.audio_cfifo_bss)
+ *(.audio_track_bss)
+ *(.audio_adc_bss)
+ *(.audio_dac_bss)
+ *(.audio_linein_bss)
+ *(.audio_link_bss)
+ *(.audio_sample_sync_bss)
+ *(.audio_wireless_sync_bss)
+ *(.audio_spdif_bss)
+ *(.audio_src_bss)
+ *(.audio_src_base_bss)
+ *(.effectrs_sync_bss)
+ *(.eq_design_bss)
+ *(.hw_eq_bss)
+ *(.iic_bss)
+ *(.mic_cap_bss)
+ *(.sbc_hwaccel_bss)
+ *(.resample_fastcal_bss)
+ *(.lc3_decoder_bss)
+                0x000082e8                media_bss_end = .
+                0x00008300                . = (((. + 0x1f) / 0x20) * 0x20)
+ *fill*         0x000082e8       0x18 
+                0x00008300                . = ALIGN (0x4)
+                0x00008300                NVRAM_DATA_START = .
+ *(.non_volatile_ram)
+ .non_volatile_ram
+                0x00008300      0x188 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00000188                NVRAM_DATA_SIZE = ABSOLUTE ((. - NVRAM_DATA_START))
+                0x00008488                . = ALIGN (0x4)
+                0x00008488                NVRAM_END = .
+                0x00008488                _nv_pre_begin = .
+ *(.src_filt)
+ *(.src_dma)
+                0x00008488                . = ALIGN (0x4)
+                0x00008488                update_bss_start = .
+ *(.update_bss)
+ .update_bss    0x00008488       0x24 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x000084ac                update_bss_end = .
+                0x000084ac                driver_bss_start = .
+                0x000084ac                CLOCK_BSS_START = .
+ *(.clock_bss)
+ .clock_bss     0x000084ac        0x4 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                0x00000004                CLOCK_BSS_SIZE = ABSOLUTE ((. - CLOCK_BSS_START))
+ *(.debug_bss)
+ *(.power_bss)
+ *(.uart_bss)
+ .uart_bss      0x000084b0      0x27c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ *(.sd_var)
+                0x0000872c                driver_bss_end = .
+
+.vir_timer
+ *(.vir_rtc)
+                0x0000872c                _cpu_store_end = .
+                0x0000872c                _prp_store_begin = .
+
+.prp_bss        0x00008740        0x0
+                0x00008740                . = (((. + 0x1f) / 0x20) * 0x20)
+                0x00008740                _prp_store_end = .
+                0x00008740                overlay_begin = .
+
+.overlay_aec    0x0000872c        0x4 load address 0x00200000
+                0x0000872c        0x4 LONG 0xffffffff
+                0x00008730                o_aec_end = .
+ *(.aec_mem)
+ *(.msbc_enc)
+                [!provide]                PROVIDE (__load_start_overlay_aec, LOADADDR (.overlay_aec))
+                [!provide]                PROVIDE (__load_stop_overlay_aec, (LOADADDR (.overlay_aec) + SIZEOF (.overlay_aec)))
+
+.overlay_mp3    0x0000872c        0x4 load address 0x00200004
+                0x0000872c        0x4 LONG 0xffffffff
+                0x00008730                o_mp3_end = .
+ *(.mp3_mem)
+ *(.mp3_ctrl_mem)
+ *(.mp3pick_mem)
+ *(.mp3pick_ctrl_mem)
+                [!provide]                PROVIDE (__load_start_overlay_mp3, LOADADDR (.overlay_mp3))
+                [!provide]                PROVIDE (__load_stop_overlay_mp3, (LOADADDR (.overlay_mp3) + SIZEOF (.overlay_mp3)))
+
+.overlay_wma    0x0000872c        0x4 load address 0x00200008
+                0x0000872c        0x4 LONG 0xffffffff
+                0x00008730                o_wma_end = .
+ *(.wma_mem)
+ *(.wma_ctrl_mem)
+ *(.wmapick_mem)
+ *(.wmapick_ctrl_mem)
+                [!provide]                PROVIDE (__load_start_overlay_wma, LOADADDR (.overlay_wma))
+                [!provide]                PROVIDE (__load_stop_overlay_wma, (LOADADDR (.overlay_wma) + SIZEOF (.overlay_wma)))
+
+.overlay_wav    0x0000872c        0x4 load address 0x0020000c
+                0x0000872c        0x4 LONG 0xffffffff
+ *(.wav_mem)
+ *(.wav_ctrl_mem)
+                [!provide]                PROVIDE (__load_start_overlay_wav, LOADADDR (.overlay_wav))
+                [!provide]                PROVIDE (__load_stop_overlay_wav, (LOADADDR (.overlay_wav) + SIZEOF (.overlay_wav)))
+
+.overlay_ape    0x0000872c        0x4 load address 0x00200010
+ *(.ape_mem)
+ *(.ape_ctrl_mem)
+ *(.ape_dec_sparse_code)
+ *(.ape_dec_sparse_const)
+ *(.ape_dec_code)
+ *(.ape_dec_const)
+ *(.ape_dec_data)
+ *(.ape_dec_bss)
+                0x0000872c        0x4 LONG 0xffffffff
+ *(.ape_bss)
+ *(.ape_data)
+ *(.ape_const)
+ *(.ape_code)
+                [!provide]                PROVIDE (__load_start_overlay_ape, LOADADDR (.overlay_ape))
+                [!provide]                PROVIDE (__load_stop_overlay_ape, (LOADADDR (.overlay_ape) + SIZEOF (.overlay_ape)))
+
+.overlay_flac   0x0000872c        0x4 load address 0x00200014
+ *(.flac_dec_sparse_code)
+ *(.flac_dec_sparse_const)
+ *(.flac_dec_code)
+ *(.flac_dec_const)
+ *(.flac_dec_data)
+ *(.flac_data)
+ *(.flac_const)
+ *(.flac_code)
+                0x0000872c        0x4 LONG 0xffffffff
+ *(.flac_mem)
+ *(.flac_ctrl_mem)
+ *(.flac_dec_bss)
+ *(.flac_bss)
+                [!provide]                PROVIDE (__load_start_overlay_flac, LOADADDR (.overlay_flac))
+                [!provide]                PROVIDE (__load_stop_overlay_flac, (LOADADDR (.overlay_flac) + SIZEOF (.overlay_flac)))
+
+.overlay_m4a    0x0000872c        0x4 load address 0x00200018
+ *(.m4a_dec_code)
+ *(.m4a_dec_ff_const)
+ *(.m4a_dec_const)
+ *(.m4a_dec_data)
+ *(.m4a_data)
+ *(.m4a_const)
+ *(.m4a_code)
+ *(.m4apick_mem)
+ *(.m4apick_ctrl_mem)
+                0x0000872c        0x4 LONG 0xffffffff
+ *(.m4a_mem)
+ *(.m4a_ctrl_mem)
+ *(.m4a_dec_bss)
+ *(.m4a_bss)
+ *(.aac_ctrl_mem)
+ *(.aac_bss)
+ *(.alac_ctrl_mem)
+ *(.alac_bss)
+                [!provide]                PROVIDE (__load_start_overlay_m4a, LOADADDR (.overlay_m4a))
+                [!provide]                PROVIDE (__load_stop_overlay_m4a, (LOADADDR (.overlay_m4a) + SIZEOF (.overlay_m4a)))
+
+.overlay_amr    0x0000872c        0x4 load address 0x0020001c
+ *(.amr_dec_sparse_code)
+ *(.amr_dec_sparse_const)
+ *(.amr_dec_code)
+ *(.amr_dec_data)
+                0x0000872c        0x4 LONG 0xffffffff
+ *(.amr_mem)
+ *(.amr_ctrl_mem)
+ *(.amr_dec_bss)
+                [!provide]                PROVIDE (__load_start_overlay_amr, LOADADDR (.overlay_amr))
+                [!provide]                PROVIDE (__load_stop_overlay_amr, (LOADADDR (.overlay_amr) + SIZEOF (.overlay_amr)))
+
+.overlay_dts    0x0000872c        0x4 load address 0x00200020
+ *(.dts_dec_code)
+ *(.dts_dec_data)
+ *(.dts_data)
+ *(.dts_const)
+ *(.dts_code)
+                0x0000872c        0x4 LONG 0xffffffff
+ *(.dts_mem)
+ *(.dts_ctrl_mem)
+ *(.dts_dec_bss)
+ *(.dts_bss)
+                [!provide]                PROVIDE (__load_start_overlay_dts, LOADADDR (.overlay_dts))
+                [!provide]                PROVIDE (__load_stop_overlay_dts, (LOADADDR (.overlay_dts) + SIZEOF (.overlay_dts)))
+
+.overlay_fm     0x0000872c        0x4 load address 0x00200024
+                0x0000872c        0x4 LONG 0xffffffff
+                0x00008730                o_fm_end = .
+ *(.fm_mem)
+ *(.linein_pcm_mem)
+                [!provide]                PROVIDE (__load_start_overlay_fm, LOADADDR (.overlay_fm))
+                [!provide]                PROVIDE (__load_stop_overlay_fm, (LOADADDR (.overlay_fm) + SIZEOF (.overlay_fm)))
+
+.overlay_pc     0x0000872c        0x0 load address 0x00200028
+ *(.usb_audio_play_dma)
+ *(.usb_audio_rec_dma)
+ *(.uac_rx)
+ *(.mass_storage)
+ *(.usb_msd_dma)
+ *(.usb_hid_dma)
+ *(.usb_iso_dma)
+ *(.usb_cdc_dma)
+ *(.uac_var)
+ *(.usb_config_var)
+ *(.cdc_var)
+                [!provide]                PROVIDE (__load_start_overlay_pc, LOADADDR (.overlay_pc))
+                [!provide]                PROVIDE (__load_stop_overlay_pc, (LOADADDR (.overlay_pc) + SIZEOF (.overlay_pc)))
+                0x00008730                overlay_end = .
+                0x00000001                ASSERT ((overlay_end <= (overlay_begin + 0x10000)), overlay overflow 64k!)
+                0x00008730                RAM_USED = .
+                0x0002c000                . = ORIGIN (ram1)
+
+.mmu_tlb        0x0002c000      0xc00
+ *(.mmu_tlb_segment)
+ .mmu_tlb_segment
+                0x0002c000      0xc00 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+
+.bss1           0x0002cc00        0x0
+                0x0002cc00                RAM1_USED = .
+                0x000016f4                UPDATE_CODE_TOTAL_SIZE = (update_code_end - update_code_start)
+                0x00000338                DRIVER_RAM_TOTAL = ((driver_data_end - driver_data_start) + (driver_bss_end - driver_bss_start))
+                0x0000140e                DRIVER_CODE_TOTAL = (driver_code_end - driver_code_start)
+                0x01e00120                text_begin = ADDR (.text)
+                0x00025ad4                text_size = SIZEOF (.text)
+                0x01e25bf4                text_end = (ADDR (.text) + SIZEOF (.text))
+                0x000045a0                bss_begin = ADDR (.bss)
+                0x0000418c                bss_size = SIZEOF (.bss)
+                0x0002cc00                bss1_begin = ADDR (.bss1)
+                0x00000000                bss1_size = SIZEOF (.bss1)
+                0x00000000                data_addr = ADDR (.data)
+                0x01e25bf4                data_begin = (text_begin + text_size)
+                0x00003d28                data_size = SIZEOF (.data)
+                0x00800000                psram_vaddr = ADDR (.psram_text)
+                0x01e2991c                psram_laddr = ((text_begin + text_size) + data_size)
+                0x00000000                psram_text_size = SIZEOF (.psram_text)
+                0x01e2991c                bank_code_load_addr = (data_begin + data_size)
+                0x0000872c                aec_addr = ADDR (.overlay_aec)
+                0x01e2991c                aec_begin = ((text_begin + text_size) + data_size)
+                0x00000004                aec_size = (o_aec_end - aec_addr)
+                0x0000872c                wav_addr = ADDR (.overlay_wav)
+                0x01e29920                wav_begin = (aec_begin + aec_size)
+                0x00000004                wav_size = SIZEOF (.overlay_wav)
+                0x0000872c                ape_addr = ADDR (.overlay_ape)
+                0x01e29924                ape_begin = (wav_begin + wav_size)
+                0x00000004                ape_size = SIZEOF (.overlay_ape)
+                0x0000872c                flac_addr = ADDR (.overlay_flac)
+                0x01e29928                flac_begin = (ape_begin + ape_size)
+                0x00000004                flac_size = SIZEOF (.overlay_flac)
+                0x0000872c                m4a_addr = ADDR (.overlay_m4a)
+                0x01e2992c                m4a_begin = (flac_begin + flac_size)
+                0x00000004                m4a_size = SIZEOF (.overlay_m4a)
+                0x0000872c                amr_addr = ADDR (.overlay_amr)
+                0x01e29930                amr_begin = (m4a_begin + m4a_size)
+                0x00000004                amr_size = SIZEOF (.overlay_amr)
+                0x0000872c                dts_addr = ADDR (.overlay_dts)
+                0x01e29934                dts_begin = (amr_begin + amr_size)
+                0x00000004                dts_size = SIZEOF (.overlay_dts)
+                0x0000872c                fm_addr = ADDR (.overlay_fm)
+                0x01e29938                fm_begin = (dts_begin + dts_size)
+                0x00000004                fm_size = (o_fm_end - fm_addr)
+                0x00008730                _HEAP_BEGIN = RAM_USED
+                0x00008730                PROVIDE (HEAP_BEGIN, RAM_USED)
+                0x0002bf00                _HEAP_END = RAM_END
+                0x0002bf00                PROVIDE (HEAP_END, RAM_END)
+                0x000237d0                _HEAP_SIZE = (HEAP_END - HEAP_BEGIN)
+                0x000237d0                PROVIDE (HEAP_SIZE, (HEAP_END - HEAP_BEGIN))
+                0x0002cc00                _HEAP1_BEGIN = RAM1_USED
+                0x0002cc00                PROVIDE (HEAP1_BEGIN, RAM1_USED)
+                0x0002ff80                _HEAP1_END = RAM1_END
+                0x0002ff80                PROVIDE (HEAP1_END, RAM1_END)
+                0x00003380                _HEAP1_SIZE = (HEAP1_END - HEAP1_BEGIN)
+                0x00003380                PROVIDE (HEAP1_SIZE, (HEAP1_END - HEAP1_BEGIN))
+                0x00026b50                _MALLOC_SIZE = (HEAP_SIZE + HEAP1_SIZE)
+                [!provide]                PROVIDE (MALLOC_SIZE, (HEAP_SIZE + HEAP1_SIZE))
+LOAD C:\JL\pi32\pi32v2-lib\r3\libm.a
+LOAD C:\JL\pi32\pi32v2-lib\r3\libc.a
+LOAD C:\JL\pi32\pi32v2-lib\r3\libm.a
+LOAD C:\JL\pi32\pi32v2-lib\r3\libcompiler-rt.a
+OUTPUT(..\..\..\..\cpu\br23\tools\sdk.elf elf32-pi32v2)
+
+.debug_str      0x00000000    0x3982e
+ .debug_str     0x00000000    0x3982e ..\..\..\..\cpu\br23\tools\sdk.elf.o
+                              0x3cfe4 (size before relaxing)
+
+.debug_loc      0x00000000    0x15b81
+ .debug_loc     0x00000000    0x15b81 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+
+.debug_abbrev   0x00000000      0xf88
+ .debug_abbrev  0x00000000      0xf62 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .debug_abbrev  0x00000f62       0x26 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+
+.debug_info     0x00000000    0x9459d
+ .debug_info    0x00000000    0x94377 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .debug_info    0x00094377      0x226 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+
+.debug_ranges   0x00000000     0x35a0
+ .debug_ranges  0x00000000     0x3578 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .debug_ranges  0x00003578       0x28 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+
+.debug_macinfo  0x00000000        0x1
+ .debug_macinfo
+                0x00000000        0x1 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+
+.debug_pubnames
+                0x00000000    0x17fe0
+ .debug_pubnames
+                0x00000000    0x17fe0 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+
+.debug_pubtypes
+                0x00000000    0x12c2c
+ .debug_pubtypes
+                0x00000000    0x12c2c ..\..\..\..\cpu\br23\tools\sdk.elf.o
+
+.debug_frame    0x00000000     0x72ec
+ .debug_frame   0x00000000     0x72ec ..\..\..\..\cpu\br23\tools\sdk.elf.o
+
+.debug_line     0x00000000    0x38352
+ .debug_line    0x00000000    0x381c1 ..\..\..\..\cpu\br23\tools\sdk.elf.o
+ .debug_line    0x000381c1      0x139 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
+ .debug_line    0x000382fa       0x2c ../../../../include_lib/liba/br23/btctrler.a(version.z.o)
+ .debug_line    0x00038326       0x2c ../../../../include_lib/liba/br23/update.a(version.z.o)
+
+.debug_aranges  0x00000000       0x28
+ .debug_aranges
+                0x00000000       0x28 ../../../../include_lib/liba/br23/cpu.a(startup.S.o)
